@@ -1,0 +1,1001 @@
+customer_id,first_name,last_name,gender,email,phone,city,state,country,registration_date,loyalty_tier,is_active
+C000001,Aaina,Bajwa,Female,manikya82@example.com,3757744486,Kozhikode,Karnataka,India,2025-08-19,Platinum,No
+C000002,Rasha,Hari,Female,qkari@example.net,5422494254,Kadapa,Telangana,India,2025-05-17,Platinum,No
+C000003,Samiha,Taneja,Female,divitsane@example.com,3385993161,Chittoor,Uttarakhand,India,2023-10-30,Gold,No
+C000004,Sumer,Sekhon,Male,shayak06@example.com,2765347625,Asansol,Arunachal Pradesh,India,2022-06-20,Silver,Yes
+C000005,Hiran,Rama,Female,walianaya@example.org,1954627092,Rajpur Sonarpur,Meghalaya,India,2026-02-23,Gold,No
+C000006,Kimaya,Sem,Female,yuvraj-77@example.com,3313739046,Karnal,Gujarat,India,2023-09-04,Platinum,No
+C000007,Fateh,Bose,Female,kalajiya@example.net,1662598505,Mysore,Andhra Pradesh,India,2025-10-02,Platinum,No
+C000008,Akarsh,Mann,Male,zkashyap@example.net,9611439815,Gangtok,Himachal Pradesh,India,2025-02-23,Gold,Yes
+C000009,Inaaya ,De,Female,baradfaiyaz@example.net,2737929112,Gurgaon,Tripura,India,2024-07-31,Gold,No
+C000010,Vanya,Saran,Male,hunarbhatia@example.net,7306947665,Madanapalle,Andhra Pradesh,India,2026-03-19,Silver,No
+C000011,Aarav,Lalla,Male,mannanvidur@example.org,3616006726,Dhanbad,Meghalaya,India,2023-12-31,Platinum,Yes
+C000012,Lavanya,Bora,Male,bkala@example.net,6234272991,Munger,Tripura,India,2021-08-04,Gold,No
+C000013,Neysa,Thaker,Female,ivana57@example.org,8165647372,Tumkur,Andhra Pradesh,India,2025-10-16,Silver,Yes
+C000014,Jayesh,Bahri,Female,veerdubey@example.com,7943621120,Kollam,Uttarakhand,India,2024-06-06,Platinum,Yes
+C000015,Bhavin,Sarin,Male,rania37@example.com,2122671133,Durgapur,Meghalaya,India,2026-06-19,Silver,Yes
+C000016,Kanav,Lalla,Female,khushiswamy@example.net,8951759495,Ichalkaranji,Chhattisgarh,India,2025-09-20,Silver,Yes
+C000017,Ira,Vaidya,Male,vedikadua@example.net,2323547926,Vasai-Virar,Chhattisgarh,India,2021-08-25,Silver,Yes
+C000018,Pihu,Kurian,Male,shanayamane@example.org,0312441423,Siliguri,Uttar Pradesh,India,2023-02-11,Platinum,No
+C000019,Navya,Desai,Male,ayesha17@example.net,1737479890,Panipat,Kerala,India,2022-10-17,Gold,No
+C000020,Vaibhav,Sem,Female,choprarania@example.org,1212078180,Hubli–Dharwad,Madhya Pradesh,India,2024-03-14,Gold,Yes
+C000021,Biju,Saxena,Male,malhotramyra@example.com,5967478729,Loni,Chhattisgarh,India,2026-01-17,Silver,No
+C000022,Shaan,Bhandari,Female,vdhar@example.net,8332260147,Farrukhabad,West Bengal,India,2022-11-20,Platinum,No
+C000023,Yashvi,Choudhury,Male,nagrawal@example.org,2226962995,Pali,Chhattisgarh,India,2026-01-07,Platinum,Yes
+C000024,Alia,Chandra,Female,madhavrattan@example.org,2392564205,Srikakulam,Gujarat,India,2022-10-26,Silver,No
+C000025,Aaina,Handa,Female,eshani69@example.net,7798698947,Davanagere,Maharashtra,India,2025-05-26,Gold,No
+C000026,Pari,Bera,Female,sakshamratta@example.com,1397665536,Jodhpur,Arunachal Pradesh,India,2022-06-24,Platinum,No
+C000027,Vanya,Verma,Male,lkota@example.net,8772832488,Nangloi Jat,Maharashtra,India,2024-11-01,Platinum,Yes
+C000028,Ishita,Savant,Female,mamooty12@example.net,4579436797,Raichur,Haryana,India,2025-08-09,Platinum,No
+C000029,Shalv,Toor,Male,kaleraunak@example.org,3908007742,Pali,Arunachal Pradesh,India,2021-12-29,Gold,Yes
+C000030,Riya,Bhakta,Male,emir74@example.com,2271747450,Imphal,Jharkhand,India,2021-11-22,Silver,Yes
+C000031,Ivan,Sagar,Female,hbalan@example.com,4803302390,Arrah,Uttar Pradesh,India,2026-05-07,Silver,Yes
+C000032,Bhavin,Kothari,Female,zainaagate@example.org,2169749476,Mangalore,Assam,India,2025-10-28,Platinum,No
+C000033,Farhan,Varughese,Male,bajajkartik@example.net,3393437251,Narasaraopet,Kerala,India,2022-12-17,Silver,Yes
+C000034,Indranil,Chaudhary,Male,hrishitadevi@example.org,5401138470,Srikakulam,Uttarakhand,India,2024-02-27,Gold,No
+C000035,Uthkarsh,Dalal,Male,anvidada@example.com,9722702395,Ujjain,Tamil Nadu,India,2025-08-10,Silver,Yes
+C000036,Trisha,Karan,Female,kartik87@example.org,0966413788,Bhagalpur,Madhya Pradesh,India,2022-06-30,Silver,Yes
+C000037,Indrans,Behl,Male,gghose@example.org,3824519246,Katni,Bihar,India,2024-11-28,Platinum,Yes
+C000038,Farhan,Lalla,Male,siyachowdhury@example.com,8982504641,Thiruvananthapuram,Tamil Nadu,India,2022-04-13,Platinum,No
+C000039,Hridaan,Kari,Male,misha11@example.com,7999684920,Ambattur,Punjab,India,2023-07-23,Gold,Yes
+C000040,Advik,Sawhney,Male,hganesh@example.com,0569973702,Bhiwandi,Jharkhand,India,2024-01-08,Gold,No
+C000041,Gatik,Chaudhry,Female,mahajanadvika@example.org,7430965318,Varanasi,Tripura,India,2023-06-09,Silver,No
+C000042,Anahita,Som,Male,mehulkumar@example.org,7068341145,Muzaffarnagar,Goa,India,2025-08-17,Platinum,Yes
+C000043,Aarav,Gera,Male,gatik87@example.com,3967407656,Ludhiana,Sikkim,India,2021-12-21,Platinum,Yes
+C000044,Lagan,Mall,Male,siya24@example.com,8994746761,Jaunpur,Goa,India,2022-04-25,Platinum,No
+C000045,Tara,Kale,Female,vardaniyasathe@example.com,6700978173,Ghaziabad,Himachal Pradesh,India,2021-08-14,Silver,No
+C000046,Jivika,Zachariah,Female,evabir@example.org,5036851043,Bikaner,Jharkhand,India,2021-08-18,Gold,No
+C000047,Miraya,Kala,Male,khushi14@example.org,2402348457,Deoghar,Odisha,India,2021-07-24,Gold,No
+C000048,Advika,Gour,Male,duttmamooty@example.com,0610677364,New Delhi,Rajasthan,India,2025-09-05,Gold,Yes
+C000049,Zeeshan,Bala,Male,chahalaniruddh@example.com,2594398102,Salem,Assam,India,2025-05-07,Gold,Yes
+C000050,Shray,Dixit,Female,bavadrishya@example.com,1393553747,Nagaon,Mizoram,India,2026-06-01,Platinum,Yes
+C000051,Anya,Issac,Female,aarushramesh@example.org,9222100579,Gandhidham,Mizoram,India,2022-01-01,Silver,No
+C000052,Lakshay,Ravel,Male,zshetty@example.com,9685456772,Thiruvananthapuram,Uttar Pradesh,India,2026-06-23,Silver,Yes
+C000053,Pihu,Sura,Male,diya78@example.org,4403057128,Bhiwani,West Bengal,India,2025-08-27,Silver,Yes
+C000054,Mehul,Dua,Female,vborra@example.com,0666023678,Junagadh,Himachal Pradesh,India,2026-06-18,Silver,Yes
+C000055,Ivana,Sharma,Male,amani88@example.net,1010847821,Gandhidham,Karnataka,India,2025-09-08,Silver,No
+C000056,Jhanvi,Sawhney,Female,jhaverihiran@example.net,6130395853,Muzaffarpur,Gujarat,India,2022-08-03,Platinum,Yes
+C000057,Arhaan,Gokhale,Female,rmanda@example.net,3971604858,Ahmedabad,Uttar Pradesh,India,2022-04-11,Gold,Yes
+C000058,Elakshi,Madan,Female,adiragupta@example.com,7004194726,Alappuzha,Manipur,India,2022-12-05,Gold,No
+C000059,Onkar,Tripathi,Female,hkanda@example.com,1360283403,Tezpur,Odisha,India,2023-08-11,Gold,No
+C000060,Anya,Sathe,Male,bhandarianika@example.net,4667290287,Warangal,Assam,India,2024-09-30,Platinum,Yes
+C000061,Manjari,Balay,Male,ozachariah@example.com,6222386264,Pune,Nagaland,India,2026-06-09,Platinum,No
+C000062,Neysa,Bahl,Male,bjani@example.com,4197486473,Jalna,Goa,India,2022-11-06,Silver,Yes
+C000063,Oorja,Bhargava,Male,cbalasubramanian@example.com,2111213509,Karimnagar,Karnataka,India,2022-02-18,Silver,Yes
+C000064,Shamik,Sibal,Male,kairaapte@example.net,6284255460,Shimoga,Odisha,India,2024-07-07,Gold,Yes
+C000065,Akarsh,Varughese,Male,dharmajan42@example.net,4295723686,Bhavnagar,Bihar,India,2026-06-20,Silver,No
+C000066,Veer,Swamy,Female,aarna41@example.net,8952504496,Indore,Himachal Pradesh,India,2025-09-02,Platinum,Yes
+C000067,Aaryahi,Sarkar,Male,zkara@example.com,2306035421,Bhagalpur,Madhya Pradesh,India,2022-09-18,Silver,Yes
+C000068,Ayesha,Gill,Male,ebhandari@example.net,6914146876,Aligarh,Maharashtra,India,2025-12-05,Silver,No
+C000069,Tejas,Sethi,Male,tiya69@example.org,5956820278,Giridih,Karnataka,India,2021-12-05,Platinum,Yes
+C000070,Sahil,Chaudhry,Male,solankizoya@example.net,4137806295,Pondicherry,Himachal Pradesh,India,2026-04-13,Silver,No
+C000071,Kiaan,Dhar,Female,balatarini@example.org,8499616925,Coimbatore,Himachal Pradesh,India,2024-06-07,Gold,Yes
+C000072,Tejas,Ramesh,Female,battamanjari@example.org,6455428775,Asansol,Bihar,India,2025-09-06,Gold,No
+C000073,Devansh,Gokhale,Male,aradhyakaul@example.org,4887711740,Ahmednagar,Rajasthan,India,2026-03-24,Platinum,Yes
+C000074,Khushi,Loyal,Female,qbhargava@example.org,9226279566,Dhule,Maharashtra,India,2024-05-06,Gold,No
+C000075,Mishti,Chawla,Male,amani09@example.com,2000130497,Kamarhati,Gujarat,India,2022-02-18,Silver,No
+C000076,Baiju,Ratta,Male,dharmajan30@example.org,5196617027,Haridwar,Gujarat,India,2025-02-07,Gold,No
+C000077,Khushi,Bhatt,Female,sumerhalder@example.org,5045300032,Raiganj,Sikkim,India,2025-06-18,Gold,Yes
+C000078,Samiha,Kadakia,Female,gokul30@example.org,0912767589,Burhanpur,Uttar Pradesh,India,2024-07-08,Platinum,Yes
+C000079,Shaan,Vasa,Male,dhanukdube@example.org,6062002911,Raiganj,Jharkhand,India,2023-04-14,Silver,No
+C000080,Adira,Malhotra,Female,basuanay@example.net,3557099810,Asansol,Arunachal Pradesh,India,2024-06-11,Gold,No
+C000081,Gatik,Rao,Female,mannanrania@example.org,5238582591,Imphal,Tripura,India,2024-05-26,Platinum,No
+C000082,Myra,Goda,Male,bhavin27@example.com,4853060396,Alappuzha,Telangana,India,2023-01-03,Platinum,Yes
+C000083,Anay,Dalal,Male,purabgandhi@example.net,2886309162,Madanapalle,Chhattisgarh,India,2021-12-22,Platinum,Yes
+C000084,Aarush,Kohli,Female,zaina59@example.org,1214948884,Gorakhpur,Telangana,India,2024-12-11,Gold,Yes
+C000085,Rati,Wali,Male,vihaanshenoy@example.org,7804328891,Kishanganj,Uttarakhand,India,2024-11-29,Gold,Yes
+C000086,Lavanya,Dora,Male,dhanukmandal@example.net,5860553544,Nashik,Sikkim,India,2025-08-13,Gold,No
+C000087,Sahil,Sagar,Male,sehgalehsaan@example.com,0375855915,Motihari,Bihar,India,2023-08-21,Silver,Yes
+C000088,Lagan,Vohra,Male,anvisem@example.com,0594203939,Davanagere,Uttar Pradesh,India,2025-10-22,Silver,Yes
+C000089,Hazel,Lall,Male,madhup92@example.com,2469578229,Khora ,Andhra Pradesh,India,2023-08-18,Platinum,Yes
+C000090,Sara,Korpal,Male,balayvedika@example.org,7136669120,Sultan Pur Majra,Maharashtra,India,2022-10-27,Silver,Yes
+C000091,Gokul,Basak,Male,arhaan54@example.net,8149006114,Bilaspur,Odisha,India,2024-08-14,Silver,Yes
+C000092,Abram,Hora,Female,anandnehmat@example.org,0660612514,Kottayam,Rajasthan,India,2022-01-03,Silver,No
+C000093,Samiha,Walla,Female,kchaudhry@example.org,6088364382,Kamarhati,Punjab,India,2026-06-08,Silver,Yes
+C000094,Divij,Swamy,Male,shlok75@example.org,6176220169,Jamshedpur,Goa,India,2024-01-23,Platinum,Yes
+C000095,Chirag,Dutta,Male,rheadayal@example.com,5619695390,Aurangabad,Kerala,India,2022-04-28,Platinum,Yes
+C000096,Zoya,Grover,Male,mangalheer@example.net,9299105753,Ramgarh,Himachal Pradesh,India,2024-04-27,Platinum,Yes
+C000097,Reyansh,Devi,Female,sahanitara@example.com,4732144718,Akola,West Bengal,India,2021-12-17,Gold,Yes
+C000098,Kaira,Thakur,Male,bhatiauthkarsh@example.com,9337517787,Hospet,Tripura,India,2021-10-15,Gold,No
+C000099,Mahika,Khosla,Male,piyashetty@example.com,8050621069,Dibrugarh,Meghalaya,India,2025-09-04,Silver,Yes
+C000100,Neysa,Mangat,Male,dhingrasiya@example.org,7044880576,Bahraich,Telangana,India,2024-07-20,Gold,Yes
+C000101,Baiju,Bhatnagar,Female,broy@example.net,8972928438,Kota,Tripura,India,2022-11-12,Silver,Yes
+C000102,Zaina,Raju,Female,zachariahhunar@example.net,4675089550,Morbi,Telangana,India,2026-01-11,Gold,No
+C000103,Saira,Salvi,Male,trishasarraf@example.org,7975159400,Srinagar,West Bengal,India,2025-08-14,Platinum,Yes
+C000104,Anahi,Dixit,Male,ziyengar@example.com,1189637990,Raichur,Goa,India,2022-10-30,Gold,No
+C000105,Fateh,Krishnan,Male,kismat97@example.com,7741770845,Tadipatri,Telangana,India,2021-12-21,Gold,Yes
+C000106,Madhup,Madan,Female,manikyaarora@example.org,5309920002,Sagar,Chhattisgarh,India,2025-05-16,Platinum,Yes
+C000107,Vihaan,Chada,Female,sakshamdave@example.org,3642680862,Aurangabad,Bihar,India,2022-12-16,Gold,Yes
+C000108,Priyansh,Koshy,Female,keya59@example.net,5353511077,Uluberia,Gujarat,India,2025-12-26,Silver,Yes
+C000109,Gokul,Ahuja,Female,atwaljayesh@example.com,7789102604,Pallavaram,Tripura,India,2022-01-31,Silver,Yes
+C000110,Hrishita,Shere,Male,srinivasanalisha@example.net,3071684711,Hospet,Haryana,India,2023-07-24,Gold,No
+C000111,Indrajit,Saraf,Male,ritvik39@example.net,8091549051,Bidar,Kerala,India,2025-05-24,Silver,Yes
+C000112,Mishti,Handa,Male,phayer@example.org,9781990456,Durgapur,Chhattisgarh,India,2025-01-04,Platinum,No
+C000113,Pari,Das,Male,hansh41@example.org,8070373053,Kanpur,Nagaland,India,2024-07-17,Platinum,Yes
+C000114,Aaryahi,Tak,Male,somanhunar@example.net,0878296147,Sambalpur,Arunachal Pradesh,India,2023-08-12,Platinum,Yes
+C000115,Anvi,Sundaram,Male,nirvaan98@example.net,1078110767,Jabalpur,Gujarat,India,2023-04-23,Silver,No
+C000116,Alisha,Chopra,Female,damini91@example.net,5786841494,Jalgaon,Manipur,India,2023-09-29,Platinum,Yes
+C000117,Devansh,Rajan,Female,pranayrattan@example.org,0905524840,Erode,Sikkim,India,2023-12-21,Silver,Yes
+C000118,Tanya,Chauhan,Female,gillrati@example.com,7690402237,Bally,Odisha,India,2021-12-11,Silver,Yes
+C000119,Onkar,Sachdev,Male,bajajgatik@example.net,6785507085,Faridabad,Andhra Pradesh,India,2023-08-16,Platinum,No
+C000120,Eva,Ghosh,Female,emirshanker@example.org,6296610608,Bardhaman,Arunachal Pradesh,India,2026-05-08,Silver,No
+C000121,Vivaan,Chawla,Female,nagarwal@example.net,4868854324,Agra,Bihar,India,2026-01-06,Gold,Yes
+C000122,Nehmat,Solanki,Female,kairabiswas@example.com,8321234047,Bilaspur,Tamil Nadu,India,2022-08-28,Gold,Yes
+C000123,Lakshay,Handa,Male,rasha96@example.com,2800622202,Hapur,Telangana,India,2024-03-06,Gold,No
+C000124,Jayant,Arya,Female,sarnaparinaaz@example.net,0707766241,Sambalpur,Karnataka,India,2023-11-22,Silver,No
+C000125,Yasmin,Chatterjee,Male,neelofargokhale@example.org,5984266255,Bhusawal,Chhattisgarh,India,2023-08-09,Gold,No
+C000126,Romil,Chopra,Female,bhavsarcharvi@example.org,5159362980,Madhyamgram,Uttarakhand,India,2025-08-12,Gold,Yes
+C000127,Vaibhav,Vora,Female,gadeivan@example.com,0462349866,Aurangabad,Meghalaya,India,2021-11-25,Gold,No
+C000128,Piya,Kanda,Male,sbalan@example.org,4131486803,Suryapet,Jharkhand,India,2025-10-11,Gold,No
+C000129,Anahi,Ganesan,Male,tkapoor@example.org,9833285385,Amaravati,Meghalaya,India,2025-10-27,Gold,No
+C000130,Nirvaan,Singh,Male,vedika91@example.net,6236007321,Katihar,Telangana,India,2026-04-17,Silver,No
+C000131,Inaaya ,Date,Female,ohanda@example.org,5702647641,Uluberia,Kerala,India,2024-04-03,Gold,Yes
+C000132,Ira,Dara,Male,seherseth@example.com,8090962198,Parbhani,Manipur,India,2023-10-28,Gold,No
+C000133,Hunar,Bassi,Male,zchand@example.org,9402167181,Bongaigaon,Arunachal Pradesh,India,2025-02-16,Platinum,No
+C000134,Dishani,Chaudry,Male,mannansamar@example.org,1624348807,Nizamabad,Haryana,India,2024-01-05,Platinum,Yes
+C000135,Shamik,Kalla,Female,kismatrout@example.org,9300658405,Bhusawal,Himachal Pradesh,India,2024-10-26,Silver,No
+C000136,Jiya,Sunder,Female,zwalia@example.com,6198010287,Allahabad,Andhra Pradesh,India,2025-05-02,Platinum,Yes
+C000137,Darshit,Mall,Male,advik74@example.net,3870529446,Latur,Chhattisgarh,India,2023-07-10,Gold,No
+C000138,Nakul,Varkey,Female,zachariahayesha@example.net,1397282707,Dibrugarh,Mizoram,India,2022-11-19,Silver,No
+C000139,Hunar,Kara,Female,drishya60@example.com,1592929147,Bhavnagar,Arunachal Pradesh,India,2025-05-28,Silver,Yes
+C000140,Ehsaan,Cheema,Female,balkabir@example.org,1651205931,Patna,Telangana,India,2024-04-03,Silver,Yes
+C000141,Ayesha,Dey,Female,tiwaritaimur@example.org,9305626624,Katihar,Karnataka,India,2023-03-21,Platinum,Yes
+C000142,Vivaan,Krishnamurthy,Male,kartikgokhale@example.com,9459807700,Pudukkottai,Meghalaya,India,2022-03-24,Gold,Yes
+C000143,Stuvan,Saini,Female,yasmindass@example.com,6782684396,Katni,Arunachal Pradesh,India,2025-07-18,Silver,No
+C000144,Manjari,Anand,Female,choprapari@example.net,7972388336,Bongaigaon,Nagaland,India,2023-01-24,Silver,Yes
+C000145,Mahika,Vig,Male,madhupchahal@example.net,9156429264,Chinsurah,Sikkim,India,2024-06-20,Gold,Yes
+C000146,Ryan,Keer,Female,balakrishnanadira@example.com,3837274923,Danapur,Manipur,India,2025-10-08,Silver,Yes
+C000147,Anya,Joshi,Female,abramsama@example.net,3084623703,New Delhi,Uttar Pradesh,India,2024-01-04,Platinum,No
+C000148,Alia,Zachariah,Female,emirganguly@example.com,7377687784,Mahbubnagar,Maharashtra,India,2022-07-31,Gold,Yes
+C000149,Manjari,Char,Female,kibelagan@example.org,7242951186,Sri Ganganagar,Manipur,India,2023-07-05,Gold,Yes
+C000150,Riya,Bhatnagar,Female,drishya95@example.net,3242339782,Nagaon,West Bengal,India,2023-12-30,Platinum,No
+C000151,Indrajit,Kumar,Male,jayaramanishaan@example.com,4631173811,Alappuzha,Odisha,India,2022-06-13,Silver,No
+C000152,Hansh,Dash,Male,jdin@example.com,3366614634,Gudivada,Haryana,India,2025-02-03,Platinum,No
+C000153,Pihu,Solanki,Male,shahbaiju@example.com,7203638950,Shahjahanpur,Uttarakhand,India,2023-01-14,Gold,Yes
+C000154,Mehul,Ganesh,Female,aarav71@example.net,3831517574,Bhalswa Jahangir Pur,Bihar,India,2021-09-13,Gold,No
+C000155,Indranil,Kar,Male,yogimehul@example.org,8014947621,Mirzapur,Assam,India,2024-05-30,Gold,No
+C000156,Ishaan,Hegde,Male,anahiborra@example.net,9497765433,Orai,Punjab,India,2024-08-14,Silver,No
+C000157,Trisha,Borde,Male,utaneja@example.com,1045693909,Kulti,Chhattisgarh,India,2023-09-01,Platinum,Yes
+C000158,Renee,Ratta,Male,ryan13@example.org,9689677961,Ozhukarai,Tripura,India,2025-09-06,Platinum,Yes
+C000159,Kiaan,Thakkar,Male,svyas@example.net,2050978377,Serampore,Meghalaya,India,2022-04-06,Silver,Yes
+C000160,Samaira,Singh,Female,sairasane@example.org,8772474675,Patna,Kerala,India,2022-02-17,Gold,Yes
+C000161,Aradhya,Contractor,Female,sachdevaaaryahi@example.org,9671567371,Danapur,Nagaland,India,2024-05-14,Platinum,No
+C000162,Kaira,Agrawal,Female,kiaanraj@example.net,4214884402,Guntur,Uttar Pradesh,India,2023-09-06,Gold,Yes
+C000163,Zoya,Thaman,Female,biju17@example.org,8946155214,Vijayawada,Mizoram,India,2025-01-03,Silver,Yes
+C000164,Jayesh,Shroff,Male,ltripathi@example.org,9591257934,Jamalpur,Haryana,India,2022-01-06,Gold,Yes
+C000165,Biju,Ahuja,Male,ggade@example.com,4474418860,Srikakulam,Himachal Pradesh,India,2021-12-03,Silver,No
+C000166,Shayak,Issac,Male,khushi51@example.org,4949481799,Sirsa,Bihar,India,2026-04-01,Gold,No
+C000167,Miraya,Sodhi,Female,abali@example.net,8172311583,Latur,Arunachal Pradesh,India,2021-08-23,Silver,Yes
+C000168,Eshani,Tailor,Male,ibali@example.com,1965725820,Bareilly,Tamil Nadu,India,2024-07-23,Platinum,No
+C000169,Tanya,Aggarwal,Male,purabrege@example.org,1217652301,Madurai,Assam,India,2022-07-23,Silver,No
+C000170,Miraan,Dugar,Female,shraykarpe@example.com,1546739309,Mira-Bhayandar,Nagaland,India,2026-01-10,Silver,Yes
+C000171,Zaina,Ratti,Male,drishyaborde@example.com,0563913986,New Delhi,Chhattisgarh,India,2022-04-28,Platinum,Yes
+C000172,Kashvi,Vohra,Male,shalder@example.net,6640024048,Kirari Suleman Nagar,Telangana,India,2024-08-01,Silver,Yes
+C000173,Mamooty,Chacko,Female,zsachdev@example.com,2151216912,Chandigarh,Odisha,India,2025-10-11,Gold,Yes
+C000174,Yakshit,Yadav,Male,samaeva@example.com,5560426207,Gandhidham,Himachal Pradesh,India,2025-08-16,Platinum,No
+C000175,Ishita,Goyal,Male,wghose@example.com,0333438825,Chandrapur,Tripura,India,2023-04-19,Silver,No
+C000176,Jayant,Sachdeva,Female,karaaarush@example.com,5697115796,Muzaffarnagar,Jharkhand,India,2024-06-01,Platinum,Yes
+C000177,Nayantara,Borra,Female,ishaan90@example.org,3464812442,Sikar,Punjab,India,2022-10-15,Silver,Yes
+C000178,Lagan,Lad,Female,aaryahi15@example.org,4093672521,Naihati,Haryana,India,2022-05-11,Gold,No
+C000179,Rhea,Bhargava,Male,valajayesh@example.net,1146953334,Malda,Telangana,India,2023-06-06,Gold,No
+C000180,Trisha,Andra,Male,sundervedika@example.net,4985789242,Bhiwandi,Manipur,India,2023-08-02,Platinum,Yes
+C000181,Kaira,Halder,Male,trisha01@example.com,0211333227,Sangli-Miraj & Kupwad,Andhra Pradesh,India,2021-11-18,Silver,Yes
+C000182,Alisha,Ramanathan,Male,rbains@example.net,4616071386,Pudukkottai,Arunachal Pradesh,India,2022-06-08,Platinum,Yes
+C000183,Devansh,Rajan,Female,koshypranay@example.net,8581538569,Durgapur,Himachal Pradesh,India,2022-07-26,Silver,No
+C000184,Aaryahi,Srinivasan,Female,sahilrege@example.com,9214787273,Panchkula,Kerala,India,2023-01-30,Silver,Yes
+C000185,Arhaan,Contractor,Male,kimaya41@example.org,4122622375,Nagpur,Tamil Nadu,India,2025-05-20,Gold,No
+C000186,Zoya,Trivedi,Female,mohanlal04@example.net,5720801739,Panchkula,Maharashtra,India,2022-09-21,Gold,No
+C000187,Charvi,Ratti,Male,kbrahmbhatt@example.net,3694200255,Chandigarh,Kerala,India,2026-03-25,Platinum,Yes
+C000188,Myra,Tak,Female,siya45@example.org,1809101630,Bongaigaon,Bihar,India,2024-07-16,Gold,No
+C000189,Riya,Saini,Male,geraadvika@example.com,6249175372,Imphal,Assam,India,2025-09-18,Platinum,No
+C000190,Vaibhav,Khosla,Male,krishnamurthygokul@example.net,3919397851,Amravati,Uttarakhand,India,2024-10-20,Platinum,Yes
+C000191,Amira,Agarwal,Male,vraman@example.org,6879539794,Udupi,Assam,India,2023-04-15,Gold,No
+C000192,Ahana ,Bera,Female,parikara@example.com,5174398707,Bardhaman,Andhra Pradesh,India,2022-06-18,Silver,No
+C000193,Saira,Johal,Male,rashamanne@example.net,4000564337,Ulhasnagar,Chhattisgarh,India,2024-12-06,Silver,No
+C000194,Shanaya,Master,Male,jkara@example.net,2975412106,Ahmedabad,West Bengal,India,2023-12-18,Silver,Yes
+C000195,Sahil,Upadhyay,Female,tripathiabram@example.net,7911484789,Haldia,Maharashtra,India,2025-02-14,Platinum,Yes
+C000196,Romil,Hegde,Male,devanshkulkarni@example.com,8250550274,Muzaffarpur,Rajasthan,India,2024-06-05,Gold,No
+C000197,Zara,Dyal,Female,lakshitanne@example.org,0324712329,Kochi,Uttar Pradesh,India,2022-09-11,Platinum,Yes
+C000198,Ivan,Bava,Female,ehsaanloyal@example.com,4827643200,Bidar,Meghalaya,India,2024-11-24,Gold,No
+C000199,Hansh,Shetty,Female,aayush75@example.com,7176260424,Thanjavur,Goa,India,2023-09-05,Platinum,Yes
+C000200,Neelofar,Bhatt,Female,mramesh@example.net,5512227097,Bhatpara,Assam,India,2024-07-03,Gold,No
+C000201,Ehsaan,Lata,Female,ryan11@example.com,9773153817,Amravati,Odisha,India,2025-07-01,Platinum,No
+C000202,Pranay,Kuruvilla,Female,karahunar@example.org,9778951636,Moradabad,Jharkhand,India,2021-10-18,Platinum,Yes
+C000203,Himmat,Chana,Male,comarmanikya@example.net,1285442767,Ahmedabad,Meghalaya,India,2022-10-06,Gold,No
+C000204,Ishita,Comar,Female,sehgalmamooty@example.org,0043927306,Jalandhar,Rajasthan,India,2022-11-08,Platinum,No
+C000205,Akarsh,Ranganathan,Male,tgade@example.net,2907218366,Munger,Jharkhand,India,2021-10-15,Gold,Yes
+C000206,Shray,Dhingra,Female,kdutt@example.com,7178157647,Howrah,Chhattisgarh,India,2022-10-08,Gold,Yes
+C000207,Tushar,Sangha,Male,sacharoorja@example.com,3409387654,Begusarai,West Bengal,India,2023-01-18,Gold,Yes
+C000208,Damini,Bahri,Female,balasubramaniandarshit@example.com,0849722601,Suryapet,Manipur,India,2025-09-14,Platinum,Yes
+C000209,Bhavin,Gokhale,Female,lbhagat@example.com,1394065774,Bongaigaon,Andhra Pradesh,India,2025-05-27,Silver,No
+C000210,Badal,Kala,Female,darshitrastogi@example.net,8769782758,Ramagundam,Kerala,India,2023-07-14,Silver,Yes
+C000211,Fateh,Thaker,Male,ldivan@example.com,8994590054,Bhubaneswar,Uttar Pradesh,India,2022-09-27,Gold,No
+C000212,Miraan,Saha,Female,udhar@example.net,3678799309,Rewa,West Bengal,India,2023-05-08,Platinum,Yes
+C000213,Alia,Rajan,Female,hiranmallick@example.org,8901748578,Bikaner,Sikkim,India,2021-07-24,Gold,Yes
+C000214,Manjari,Badal,Female,goeltara@example.com,8880275277,Naihati,Jharkhand,India,2026-03-15,Gold,No
+C000215,Ehsaan,Subramaniam,Female,myra44@example.net,2485818369,Ratlam,Andhra Pradesh,India,2024-10-30,Silver,No
+C000216,Emir,Chowdhury,Male,pmalhotra@example.net,3958397735,Sri Ganganagar,Gujarat,India,2024-12-28,Platinum,Yes
+C000217,Hiran,Baral,Female,kimaya16@example.org,4629909217,Mumbai,West Bengal,India,2023-07-15,Silver,Yes
+C000218,Drishya,Brar,Female,kashvicomar@example.net,4413564540,Rewa,Rajasthan,India,2023-05-12,Gold,No
+C000219,Lakshay,Desai,Male,anya88@example.com,2829361748,Gudivada,Tripura,India,2025-09-03,Platinum,No
+C000220,Madhav,Raman,Female,shroffdrishya@example.net,9257729300,Bhilai,Maharashtra,India,2021-08-12,Silver,No
+C000221,Amira,Chaudhari,Male,kalitajhanvi@example.org,8082626584,Kochi,Karnataka,India,2025-01-21,Platinum,Yes
+C000222,Indranil,Lall,Male,semjivika@example.net,9895695254,Hosur,Telangana,India,2022-01-13,Gold,Yes
+C000223,Pari,Madan,Male,wsawhney@example.org,9370072826,Kadapa,Tamil Nadu,India,2025-02-15,Platinum,No
+C000224,Dhanuk,Bali,Male,lakshitanne@example.net,3381290245,Udaipur,Uttarakhand,India,2023-05-11,Gold,Yes
+C000225,Kabir,Wason,Male,gkhanna@example.com,5176598799,Nadiad,Punjab,India,2023-04-29,Platinum,No
+C000226,Anika,Iyengar,Male,jkamdar@example.org,8506508797,Bhagalpur,Maharashtra,India,2024-03-29,Gold,No
+C000227,Elakshi,Dixit,Female,alishakale@example.org,3359354019,Ghaziabad,Sikkim,India,2023-11-22,Silver,No
+C000228,Manjari,Bora,Female,sarrafonkar@example.org,6898738282,Kalyan-Dombivli,Uttarakhand,India,2023-07-06,Gold,Yes
+C000229,Piya,Mahajan,Female,abramvenkatesh@example.org,9998583704,Satara,Karnataka,India,2023-09-07,Platinum,Yes
+C000230,Jivin,Bandi,Male,bbehl@example.org,0271702757,Bhilwara,Karnataka,India,2026-01-30,Silver,No
+C000231,Advika,Saran,Female,samar21@example.org,3822338136,Mysore,Telangana,India,2021-08-12,Gold,No
+C000232,Priyansh,Gupta,Female,qcontractor@example.com,6860961791,Anand,Madhya Pradesh,India,2022-04-06,Silver,No
+C000233,Aniruddh,Boase,Male,tailorlakshit@example.com,8999752834,Bharatpur,Telangana,India,2025-11-15,Gold,Yes
+C000234,Ira,Yogi,Male,esarin@example.com,6094202472,Ludhiana,Kerala,India,2022-04-09,Silver,No
+C000235,Elakshi,Din,Female,vmadan@example.org,4949130590,Aligarh,Uttarakhand,India,2024-06-06,Platinum,Yes
+C000236,Anaya,Rout,Female,amanikalita@example.net,0219050686,Surendranagar Dudhrej,Jharkhand,India,2022-05-03,Platinum,Yes
+C000237,Nakul,Subramanian,Male,fbhardwaj@example.org,8452330777,Lucknow,Nagaland,India,2026-04-24,Platinum,No
+C000238,Kaira,Shetty,Female,msaran@example.org,3404805922,Bhagalpur,Arunachal Pradesh,India,2022-05-26,Gold,No
+C000239,Krish,Sarraf,Male,swamyaaina@example.org,1360785978,Jorhat,Nagaland,India,2023-07-11,Gold,No
+C000240,Indrans,Kanda,Female,hrishitabalay@example.net,1607410997,Rajahmundry,Mizoram,India,2024-11-14,Silver,Yes
+C000241,Madhup,Ganesan,Female,bhattiuthkarsh@example.com,3113755971,Vadodara,Madhya Pradesh,India,2024-05-07,Platinum,Yes
+C000242,Lagan,Tandon,Male,uthkarshmadan@example.org,8780242133,Jaipur,Sikkim,India,2022-03-15,Silver,Yes
+C000243,Alisha,Kamdar,Female,siyasetty@example.net,4760579906,Bidhannagar,Meghalaya,India,2026-02-16,Gold,Yes
+C000244,Hansh,Ben,Female,senguptaivana@example.net,1775346546,Bongaigaon,Haryana,India,2024-01-02,Silver,No
+C000245,Shalv,Baral,Female,eva58@example.net,2200045722,Kishanganj,Punjab,India,2023-10-05,Platinum,Yes
+C000246,Alisha,Chakrabarti,Female,maharajanika@example.com,6146948074,Machilipatnam,Sikkim,India,2025-02-14,Gold,Yes
+C000247,Tushar,Tara,Female,srinivasneysa@example.net,9316238585,Jamalpur,Telangana,India,2024-03-29,Silver,Yes
+C000248,Eshani,Wagle,Female,urvi39@example.net,8854030028,Chandigarh,Telangana,India,2022-05-25,Gold,Yes
+C000249,Fateh,Bhat,Female,lakshaylata@example.net,5277735387,Loni,Telangana,India,2025-05-29,Platinum,Yes
+C000250,Miraan,Tara,Male,ibath@example.net,4308644905,Ramgarh,Himachal Pradesh,India,2025-09-12,Gold,Yes
+C000251,Samaira,Manne,Male,agrawalaarna@example.org,2164066787,Jamnagar,Himachal Pradesh,India,2026-01-24,Platinum,No
+C000252,Saira,Ram,Female,arnav20@example.net,4140019691,Secunderabad,West Bengal,India,2023-05-22,Gold,Yes
+C000253,Arhaan,Bir,Female,walifateh@example.com,4648631768,Motihari,Manipur,India,2022-04-17,Gold,Yes
+C000254,Emir,Batra,Male,nayantararatta@example.com,5438731951,Kolkata,Madhya Pradesh,India,2025-05-03,Silver,Yes
+C000255,Farhan,Solanki,Female,zwable@example.com,8405516222,Kottayam,Andhra Pradesh,India,2023-01-13,Gold,Yes
+C000256,Shalv,Sarna,Male,zeeshan35@example.net,6298204426,Barasat,Tamil Nadu,India,2025-03-22,Platinum,Yes
+C000257,Himmat,Rajagopal,Male,nbadal@example.net,1286789130,Karawal Nagar,Jharkhand,India,2022-07-24,Gold,No
+C000258,Ryan,Sahni,Female,imaster@example.com,5252635249,Bhagalpur,Mizoram,India,2022-12-22,Platinum,Yes
+C000259,Rati,Chawla,Male,dchahal@example.com,6287740357,Kanpur,Karnataka,India,2026-04-07,Silver,No
+C000260,Yakshit,Sarkar,Female,hazelraval@example.net,7738112118,Pune,Arunachal Pradesh,India,2022-04-12,Platinum,No
+C000261,Nirvaan,Gera,Female,ryan59@example.com,2470089355,Asansol,Manipur,India,2025-12-05,Silver,No
+C000262,Kismat,Johal,Male,jivikawalla@example.net,3456373397,Visakhapatnam,Arunachal Pradesh,India,2023-10-28,Gold,Yes
+C000263,Baiju,Ramaswamy,Female,sampatheva@example.net,5298913746,Saharanpur,Manipur,India,2022-06-11,Silver,Yes
+C000264,Kiaan,Sen,Female,kavyatara@example.com,2783804577,Karaikudi,Uttarakhand,India,2025-12-29,Platinum,Yes
+C000265,Jivika,Sood,Male,suridishani@example.com,9067372892,Surendranagar Dudhrej,Telangana,India,2025-12-07,Platinum,Yes
+C000266,Raunak,Krish,Male,renee19@example.com,6644654926,Fatehpur,Rajasthan,India,2022-03-18,Gold,Yes
+C000267,Lagan,Brahmbhatt,Male,suhanachoudhary@example.org,9262589004,Thiruvananthapuram,Himachal Pradesh,India,2023-12-25,Gold,No
+C000268,Kashvi,Mann,Female,khayre@example.com,8977277599,Lucknow,Chhattisgarh,India,2021-10-28,Gold,No
+C000269,Nayantara,Yogi,Male,rohan35@example.net,8076847932,Anand,Mizoram,India,2022-01-31,Silver,Yes
+C000270,Ela,Gara,Female,dhillonbhamini@example.net,4032010092,Karnal,Himachal Pradesh,India,2023-03-17,Silver,Yes
+C000271,Rhea,Jha,Female,karanbadal@example.org,9283428034,Coimbatore,Arunachal Pradesh,India,2022-01-26,Gold,No
+C000272,Akarsh,Sodhi,Male,ela96@example.net,2424689377,Erode,Andhra Pradesh,India,2025-07-24,Platinum,Yes
+C000273,Tiya,Handa,Female,cherianzaina@example.net,5862893391,Raichur,Chhattisgarh,India,2022-12-17,Platinum,Yes
+C000274,Umang,Gopal,Male,lavanya95@example.org,2555812290,Raebareli,Arunachal Pradesh,India,2025-08-05,Platinum,Yes
+C000275,Kiaan,Kumar,Male,sharyan@example.org,7795682622,Karnal,Haryana,India,2024-10-04,Platinum,No
+C000276,Dishani,Dash,Female,nehmatganesan@example.com,1837381641,Tirupati,Assam,India,2023-02-24,Platinum,No
+C000277,Anvi,Bhatti,Male,vedika38@example.com,8014620913,Thrissur,Sikkim,India,2021-09-13,Silver,Yes
+C000278,Kavya,Chaudhuri,Female,taradube@example.org,8181531409,Siwan,Tamil Nadu,India,2024-01-01,Silver,Yes
+C000279,Oorja,Virk,Female,wkhare@example.com,0475520139,Gulbarga,Odisha,India,2025-12-28,Gold,No
+C000280,Neysa,Ahuja,Male,yreddy@example.org,0127199733,Tirupati,Bihar,India,2025-08-11,Platinum,No
+C000281,Ayesha,Mander,Male,kiberasha@example.net,1175663654,Imphal,Punjab,India,2023-06-04,Platinum,No
+C000282,Advik,Raj,Female,krege@example.com,4012954822,Kolhapur,Tripura,India,2024-12-26,Silver,No
+C000283,Sumer,Verma,Female,qwalla@example.net,4427127059,Farrukhabad,Telangana,India,2021-08-22,Silver,No
+C000284,Raunak,Sridhar,Male,tgala@example.org,6787818146,Hazaribagh,Kerala,India,2026-05-14,Silver,Yes
+C000285,Sana,Baria,Female,kavya71@example.com,3525255392,Aizawl,Telangana,India,2021-10-12,Gold,Yes
+C000286,Ishita,Jha,Male,saira75@example.net,9420437035,Nagpur,Punjab,India,2025-01-14,Platinum,No
+C000287,Elakshi,Borde,Female,aarna25@example.com,4798688781,Durgapur,Mizoram,India,2025-12-04,Silver,Yes
+C000288,Vaibhav,Virk,Female,divithayre@example.com,9517137312,Bhavnagar,Nagaland,India,2024-05-17,Silver,No
+C000289,Zeeshan,Gupta,Male,garayuvaan@example.net,2963365313,Jodhpur,Andhra Pradesh,India,2025-03-18,Platinum,No
+C000290,Lakshay,Mander,Female,abadal@example.org,9590613913,Ajmer,Bihar,India,2025-01-29,Silver,Yes
+C000291,Taran,Mangal,Female,salvishaan@example.com,1916561705,Medininagar,Telangana,India,2021-09-30,Silver,Yes
+C000292,Pari,Dara,Male,advika19@example.org,2119226545,Sambalpur,Sikkim,India,2025-06-02,Gold,No
+C000293,Kanav,Anand,Male,mohanlalbadal@example.net,7155952548,Motihari,Maharashtra,India,2023-09-03,Silver,Yes
+C000294,Farhan,Subramanian,Female,mishtiagarwal@example.org,1778964038,Kalyan-Dombivli,Nagaland,India,2025-08-27,Silver,Yes
+C000295,Darshit,Chopra,Male,gtrivedi@example.com,6087741550,Burhanpur,Telangana,India,2021-12-04,Platinum,Yes
+C000296,Oorja,Dhillon,Male,ibatra@example.net,3278217652,Bhiwandi,Gujarat,India,2025-03-24,Gold,Yes
+C000297,Zoya,Saini,Female,veerkakar@example.com,2992084201,Gaya,Assam,India,2024-05-09,Platinum,Yes
+C000298,Hridaan,Dhaliwal,Female,sathevaibhav@example.com,3611718798,Bongaigaon,Telangana,India,2024-01-25,Platinum,No
+C000299,Uthkarsh,Bandi,Male,oboase@example.net,4108311312,Tiruchirappalli,Uttarakhand,India,2026-07-01,Silver,No
+C000300,Vivaan,Chaudhary,Female,aradhya02@example.com,3060361018,Chapra,Bihar,India,2023-06-19,Silver,No
+C000301,Lavanya,Sahota,Male,dattashlok@example.com,6471464787,Meerut,Karnataka,India,2025-08-26,Gold,Yes
+C000302,Vardaniya,Wali,Female,djha@example.com,1959842819,Medininagar,Rajasthan,India,2022-03-29,Platinum,No
+C000303,Dhruv,Gandhi,Female,kalitaakarsh@example.com,5669987751,Jhansi,Karnataka,India,2021-08-07,Gold,Yes
+C000304,Samar,Bath,Male,ritvik58@example.com,4746299814,Ujjain,Arunachal Pradesh,India,2023-09-22,Gold,No
+C000305,Lakshit,Babu,Female,indrans53@example.org,4268682303,Kolkata,Meghalaya,India,2024-05-22,Gold,No
+C000306,Kismat,Setty,Female,amiradesai@example.com,7964209546,Mumbai,Andhra Pradesh,India,2023-03-09,Gold,No
+C000307,Urvi,Dara,Female,luthrapiya@example.net,3174217845,Jaipur,Nagaland,India,2025-02-25,Gold,No
+C000308,Yashvi,Brahmbhatt,Male,tkibe@example.org,8478520609,Chittoor,West Bengal,India,2025-11-15,Platinum,Yes
+C000309,Mehul,Kalita,Female,zeeshanapte@example.com,9580432916,Rewa,Andhra Pradesh,India,2025-04-15,Gold,Yes
+C000310,Dharmajan,Chawla,Female,dbhalla@example.com,8529535782,Tadepalligudem,Kerala,India,2022-01-26,Platinum,Yes
+C000311,Samarth,Sathe,Male,eshanithaman@example.com,3101994478,Rewa,Tripura,India,2024-01-15,Gold,No
+C000312,Devansh,Barman,Male,prisha26@example.net,1489916846,Bhilai,Manipur,India,2022-02-11,Gold,No
+C000313,Vanya,Gandhi,Female,troy@example.net,4427816630,Gandhinagar,Tamil Nadu,India,2025-12-13,Platinum,No
+C000314,Samarth,Jaggi,Male,faiyaz01@example.org,0189201735,Mehsana,Odisha,India,2025-02-06,Gold,No
+C000315,Aarush,Rao,Male,chandranmehul@example.net,3239732673,Muzaffarpur,Bihar,India,2024-04-20,Silver,Yes
+C000316,Navya,Kari,Male,deolhansh@example.org,9034235878,Kavali,Odisha,India,2022-03-08,Platinum,Yes
+C000317,Pari,Khosla,Male,veersawhney@example.org,7874312301,Davanagere,Punjab,India,2025-09-18,Gold,Yes
+C000318,Anaya,Arora,Female,paridesai@example.com,7547525142,Kharagpur,Arunachal Pradesh,India,2026-07-19,Platinum,Yes
+C000319,Kabir,Tailor,Male,mahika32@example.org,1524896615,Khora ,Goa,India,2026-06-25,Gold,Yes
+C000320,Umang,Sodhi,Male,dharjivika@example.net,6778987202,Rourkela,Kerala,India,2024-04-06,Silver,No
+C000321,Alisha,Varkey,Male,venkateshindranil@example.org,0635689078,Dhule,Meghalaya,India,2026-01-01,Silver,No
+C000322,Ivana,Bhagat,Female,emir88@example.net,9260983875,Akola,Madhya Pradesh,India,2022-06-30,Platinum,Yes
+C000323,Nirvi,Ben,Male,pari43@example.com,5248213265,Satara,Punjab,India,2024-06-10,Gold,No
+C000324,Stuvan,Karpe,Female,ramakrishnaneshani@example.com,9260281771,Davanagere,Uttar Pradesh,India,2021-08-07,Platinum,No
+C000325,Nirvaan,Keer,Male,eborde@example.com,4681159779,Gandhinagar,Arunachal Pradesh,India,2025-04-05,Gold,Yes
+C000326,Aaryahi,Krishna,Male,okhanna@example.com,4407663065,Gangtok,Nagaland,India,2025-05-21,Silver,No
+C000327,Dharmajan,Goda,Female,umang97@example.com,5450220234,Bongaigaon,Karnataka,India,2023-09-13,Silver,Yes
+C000328,Aayush,Sarkar,Male,hegdehazel@example.net,2650535476,Kirari Suleman Nagar,Haryana,India,2025-06-14,Platinum,Yes
+C000329,Hazel,Sodhi,Female,mannatmalhotra@example.org,5169120913,Pudukkottai,Manipur,India,2022-12-31,Platinum,Yes
+C000330,Lavanya,Yadav,Male,sarkarsuhana@example.net,2931109425,Ambarnath,Uttarakhand,India,2022-06-16,Silver,Yes
+C000331,Divit,Ramakrishnan,Female,egera@example.org,7026073226,Raichur,Chhattisgarh,India,2025-09-12,Platinum,Yes
+C000332,Anika,Kumar,Female,shethishita@example.org,3766792008,Medininagar,Uttarakhand,India,2025-03-13,Silver,Yes
+C000333,Suhana,Shere,Female,subramaniandivit@example.net,8754168408,Narasaraopet,Tripura,India,2025-12-23,Silver,No
+C000334,Vidur,Brar,Male,chaudharytiya@example.com,2304261029,Kharagpur,Chhattisgarh,India,2022-02-11,Silver,No
+C000335,Tiya,Dugar,Female,pihuwadhwa@example.org,7418945969,Khandwa,Nagaland,India,2024-10-02,Gold,Yes
+C000336,Vaibhav,Bhandari,Female,arnav49@example.net,7745324371,Rohtak,West Bengal,India,2025-09-03,Silver,No
+C000337,Prerak,Dalal,Female,ravalmisha@example.com,0951756568,Jhansi,Uttarakhand,India,2025-11-23,Gold,No
+C000338,Zoya,Zachariah,Female,rameshehsaan@example.org,2058531537,Muzaffarpur,Punjab,India,2024-04-15,Platinum,Yes
+C000339,Alisha,Bhakta,Male,cbadami@example.org,8971943518,Bhilai,Manipur,India,2022-01-04,Platinum,No
+C000340,Ayesha,Dayal,Male,bathishita@example.com,9302176691,Bihar Sharif,Manipur,India,2022-11-06,Silver,No
+C000341,Pranay,Kuruvilla,Female,nkhanna@example.org,3519946514,Durg,Kerala,India,2024-05-25,Platinum,Yes
+C000342,Kavya,Din,Female,yuvraj-swamy@example.com,5243208506,Tenali,Himachal Pradesh,India,2024-09-25,Silver,Yes
+C000343,Nakul,Dave,Male,azad38@example.net,9276062443,Gopalpur,Haryana,India,2024-03-23,Silver,Yes
+C000344,Kashvi,Bumb,Female,sagarwal@example.com,1461040343,Malda,Assam,India,2024-04-08,Silver,Yes
+C000345,Nishith,Sharma,Male,thakurmannat@example.net,7288563328,Gandhidham,Uttarakhand,India,2024-08-10,Silver,No
+C000346,Dhruv,Sharma,Female,sarabose@example.net,3426708780,Shimoga,Odisha,India,2023-02-08,Gold,Yes
+C000347,Uthkarsh,Bhasin,Male,baradanika@example.org,9785328627,Anantapuram,Tripura,India,2025-05-14,Platinum,Yes
+C000348,Neysa,Majumdar,Female,nirvaankala@example.org,6464860458,Jamnagar,Mizoram,India,2022-02-03,Gold,No
+C000349,Neysa,Sidhu,Male,miraya80@example.net,4914518046,Mira-Bhayandar,Arunachal Pradesh,India,2025-07-15,Platinum,Yes
+C000350,Advik,Kibe,Male,abrambhalla@example.net,3373235715,Karaikudi,Sikkim,India,2024-07-21,Gold,No
+C000351,Diya,Dubey,Male,inaaya-ramesh@example.org,4260878205,Kurnool,Andhra Pradesh,India,2024-07-01,Silver,No
+C000352,Tarini,Gade,Female,umangramaswamy@example.net,8343045010,Suryapet,Manipur,India,2024-07-15,Gold,No
+C000353,Yakshit,Jaggi,Female,jiyamaster@example.org,0572075236,Unnao,Punjab,India,2025-02-23,Silver,Yes
+C000354,Rhea,Virk,Male,aarora@example.org,4263952669,Raurkela Industrial Township,Goa,India,2023-01-30,Gold,Yes
+C000355,Advika,Ganesan,Male,utak@example.org,1056980028,Miryalaguda,Tamil Nadu,India,2025-10-28,Silver,Yes
+C000356,Rhea,Grover,Female,neysacomar@example.org,8005007614,Bhind,Telangana,India,2022-02-02,Gold,No
+C000357,Vardaniya,Korpal,Female,aainabose@example.org,1515082357,Ramgarh,Rajasthan,India,2023-09-02,Gold,Yes
+C000358,Mehul,Shroff,Female,vidurlad@example.net,9300822186,Ambala,Karnataka,India,2021-08-09,Platinum,Yes
+C000359,Khushi,Shenoy,Male,shankartejas@example.com,8816189566,South Dumdum,Gujarat,India,2025-04-24,Platinum,Yes
+C000360,Nitara,Kalita,Male,lokeakarsh@example.org,2668527829,Madanapalle,Manipur,India,2023-06-26,Silver,Yes
+C000361,Abram,Tandon,Female,rshan@example.net,0812722371,Belgaum,Mizoram,India,2023-04-01,Platinum,No
+C000362,Diya,Vohra,Female,azadwadhwa@example.com,1817208431,Jorhat,Haryana,India,2024-09-19,Gold,Yes
+C000363,Samiha,Sinha,Male,lbasak@example.net,0599022429,Morbi,Arunachal Pradesh,India,2024-07-31,Silver,No
+C000364,Samaira,Behl,Male,fbansal@example.org,2456567016,Uluberia,Rajasthan,India,2022-05-11,Silver,Yes
+C000365,Ira,Tripathi,Male,madhavcheema@example.net,3189907834,Bally,Punjab,India,2022-09-10,Silver,No
+C000366,Hunar,Dar,Male,hrishita67@example.net,1265065256,Dewas,Bihar,India,2022-02-11,Silver,Yes
+C000367,Renee,Konda,Male,tiyadeshmukh@example.net,9619404912,Bhagalpur,Chhattisgarh,India,2021-12-09,Silver,No
+C000368,Arnav,Sharma,Female,madanmadhav@example.org,0103653068,Orai,Kerala,India,2022-02-18,Gold,Yes
+C000369,Nehmat,Bir,Female,adira33@example.net,0035544011,Adoni,Meghalaya,India,2025-08-09,Silver,Yes
+C000370,Adah,Ravi,Female,bumbmanikya@example.org,7664419890,Shahjahanpur,Odisha,India,2026-03-30,Silver,Yes
+C000371,Aradhya,Ahluwalia,Female,yashvi25@example.com,6065655383,Ujjain,Punjab,India,2023-02-22,Platinum,No
+C000372,Tara,Lata,Female,pbandi@example.org,0956494205,Morena,Arunachal Pradesh,India,2024-06-03,Silver,Yes
+C000373,Fateh,Khosla,Female,hbakshi@example.net,8460313910,Amritsar,Uttar Pradesh,India,2026-05-22,Gold,Yes
+C000374,Vaibhav,Mann,Female,sehgallavanya@example.net,5251772464,Satna,Bihar,India,2021-08-21,Gold,Yes
+C000375,Shayak,Chaudhry,Male,gatik24@example.org,4445683447,Ghaziabad,Assam,India,2021-12-28,Platinum,No
+C000376,Jhanvi,Sarma,Female,neelofarbatta@example.org,2577837400,Navi Mumbai,West Bengal,India,2021-08-15,Platinum,No
+C000377,Navya,Vasa,Female,qsha@example.com,8084149497,Raurkela Industrial Township,Assam,India,2024-06-08,Gold,No
+C000378,Raghav,Date,Female,jbatta@example.com,8139933826,Faridabad,Sikkim,India,2023-03-22,Gold,Yes
+C000379,Lagan,Suresh,Female,veer41@example.com,3891516905,Orai,Assam,India,2023-07-10,Platinum,Yes
+C000380,Yakshit,Shankar,Female,krish24@example.com,4555223068,Panihati,Tripura,India,2023-09-17,Gold,Yes
+C000381,Shanaya,Bhargava,Male,karaira@example.net,5848461122,Ahmedabad,Madhya Pradesh,India,2025-05-15,Silver,Yes
+C000382,Krish,Devan,Female,dwarrior@example.org,9293171172,Kadapa,Madhya Pradesh,India,2024-10-16,Silver,Yes
+C000383,Shamik,Gopal,Male,mraj@example.com,9599781438,Kumbakonam,Himachal Pradesh,India,2023-04-17,Platinum,Yes
+C000384,Yakshit,Subramanian,Female,dbhagat@example.com,5473016665,Vijayawada,Telangana,India,2024-03-07,Platinum,No
+C000385,Zoya,Bhatia,Male,kismat46@example.org,4771046133,Eluru,Odisha,India,2025-10-23,Gold,Yes
+C000386,Samarth,Thaman,Female,jchacko@example.net,1965993925,Khandwa,Sikkim,India,2024-06-25,Gold,No
+C000387,Tanya,Kala,Female,sahilchawla@example.net,7868639000,Jabalpur,Uttarakhand,India,2026-07-06,Platinum,No
+C000388,Mamooty,Buch,Male,duaanaya@example.org,1439219335,Faridabad,Nagaland,India,2023-10-20,Platinum,Yes
+C000389,Saksham,Sarkar,Male,dewantaran@example.net,6095563003,Ulhasnagar,Jharkhand,India,2021-10-05,Silver,Yes
+C000390,Damini,Sarna,Male,shasaira@example.com,6157451074,Alappuzha,Assam,India,2023-07-12,Platinum,No
+C000391,Alisha,Loyal,Female,yuvaan49@example.org,2431851115,Jalgaon,Punjab,India,2024-11-30,Platinum,No
+C000392,Ranbir,Wason,Male,kmand@example.net,1969519431,Asansol,Madhya Pradesh,India,2024-08-05,Platinum,No
+C000393,Khushi,Sharaf,Male,gsem@example.org,7837316262,Nagercoil,Himachal Pradesh,India,2021-10-28,Gold,No
+C000394,Nitya,Dugal,Female,samarth87@example.net,9700434872,Orai,Himachal Pradesh,India,2024-03-05,Silver,Yes
+C000395,Dhanuk,Buch,Female,dharmajanverma@example.org,5747649603,Chapra,West Bengal,India,2023-02-09,Silver,Yes
+C000396,Priyansh,Malhotra,Male,sanacontractor@example.com,1163960812,Bathinda,Maharashtra,India,2026-02-14,Gold,Yes
+C000397,Adah,Ravel,Female,nehmat73@example.com,6040540249,Malda,West Bengal,India,2021-10-11,Gold,Yes
+C000398,Indrans,Dasgupta,Female,chadadvika@example.com,0671041452,Nagaon,Haryana,India,2024-04-28,Platinum,No
+C000399,Samiha,Sampath,Female,madhupbiswas@example.org,4242619280,Pimpri-Chinchwad,Manipur,India,2023-02-18,Platinum,No
+C000400,Prisha,Bhat,Male,aarav92@example.org,5433435246,Serampore,Gujarat,India,2022-03-06,Gold,Yes
+C000401,Zaina,Devan,Male,dharnirvaan@example.com,5030031541,Dehradun,Odisha,India,2023-03-22,Gold,No
+C000402,Hunar,Bhalla,Female,parinaaz26@example.net,7878395089,Thane,Rajasthan,India,2025-08-24,Gold,Yes
+C000403,Divyansh,Master,Male,gokul89@example.net,0719848741,Jamshedpur,Punjab,India,2023-12-12,Platinum,No
+C000404,Heer,Madan,Male,omangat@example.org,6934082794,Medininagar,Uttarakhand,India,2026-01-29,Gold,No
+C000405,Tanya,Chokshi,Male,advikachakrabarti@example.net,2837413891,Gopalpur,Karnataka,India,2026-06-23,Gold,No
+C000406,Shray,Zacharia,Male,czacharia@example.org,3188222461,Shimla,Uttar Pradesh,India,2025-09-22,Gold,Yes
+C000407,Hazel,Dhar,Male,dgokhale@example.org,7792911819,Kavali,Madhya Pradesh,India,2024-12-09,Platinum,No
+C000408,Ahana ,Biswas,Male,bhamini79@example.com,1780708699,Jodhpur,Punjab,India,2026-01-24,Platinum,Yes
+C000409,Kabir,Randhawa,Male,trisha72@example.net,7332108756,Bidar,Karnataka,India,2023-07-01,Gold,Yes
+C000410,Aayush,Sinha,Male,fsinghal@example.com,8525573485,Danapur,Rajasthan,India,2022-09-25,Gold,Yes
+C000411,Miraan,Roy,Female,rohan94@example.org,4320935258,Arrah,Madhya Pradesh,India,2022-10-09,Silver,Yes
+C000412,Adah,Balay,Male,ritvik65@example.com,9863758480,Srinagar,Punjab,India,2023-04-23,Gold,No
+C000413,Vedika,Bahl,Male,shray78@example.com,1047342754,Ajmer,Meghalaya,India,2026-03-31,Platinum,No
+C000414,Aniruddh,Raval,Female,anahi56@example.org,6056408227,Purnia,Assam,India,2024-11-10,Gold,No
+C000415,Siya,Kalla,Male,khushibhat@example.net,6327054359,Udaipur,Sikkim,India,2026-05-20,Silver,No
+C000416,Zaina,Buch,Male,mahikawagle@example.net,1746314542,Bidar,Tripura,India,2021-10-20,Platinum,No
+C000417,Dhanush,Varughese,Female,achaudhuri@example.net,8786357522,Dehri,Sikkim,India,2021-10-29,Gold,No
+C000418,Vivaan,Behl,Female,chirag55@example.net,5086299742,Vijayawada,Tripura,India,2026-06-15,Gold,No
+C000419,Ehsaan,Gole,Female,taran53@example.org,0982330367,Bhilai,Gujarat,India,2025-07-27,Gold,No
+C000420,Advika,Toor,Male,saniaaina@example.net,3017528078,Bhusawal,Punjab,India,2023-05-07,Gold,No
+C000421,Trisha,Golla,Male,rashashetty@example.net,3848183534,Mysore,Gujarat,India,2023-01-26,Silver,Yes
+C000422,Khushi,Kumer,Female,iyerzeeshan@example.net,7569314805,Jehanabad,Bihar,India,2023-09-19,Silver,No
+C000423,Damini,Sane,Female,uacharya@example.net,7768783444,New Delhi,Haryana,India,2021-11-09,Silver,Yes
+C000424,Saanvi,Guha,Female,chadfateh@example.org,0861921258,Bhind,Tripura,India,2021-08-29,Platinum,No
+C000425,Tiya,Sachdev,Female,mbora@example.org,0406990025,Vadodara,Jharkhand,India,2024-05-04,Silver,Yes
+C000426,Kismat,Dugal,Male,wkarnik@example.com,4996221841,Indore,West Bengal,India,2023-07-12,Platinum,Yes
+C000427,Kaira,Bala,Female,himmatdasgupta@example.com,1919446337,Moradabad,Karnataka,India,2026-06-27,Silver,Yes
+C000428,Jiya,Deshmukh,Female,hazel48@example.org,1558382850,Akola,Tamil Nadu,India,2025-10-06,Gold,No
+C000429,Baiju,Ahuja,Male,dasshansh@example.com,7121857971,Ahmedabad,Maharashtra,India,2023-04-28,Gold,No
+C000430,Aaina,Sami,Male,uthkarshsarna@example.net,7109555333,Bulandshahr,Mizoram,India,2023-01-15,Silver,No
+C000431,Armaan,Kale,Male,chopraseher@example.org,8816796550,Ozhukarai,Sikkim,India,2024-01-13,Gold,Yes
+C000432,Sara,Sinha,Male,wdugar@example.net,7119440831,Bhalswa Jahangir Pur,Tamil Nadu,India,2026-01-19,Platinum,No
+C000433,Zaina,Dixit,Male,karniklavanya@example.com,1860897067,Vijayawada,Bihar,India,2023-05-16,Platinum,No
+C000434,Jivika,Raval,Male,veer88@example.com,2384301404,Kishanganj,Himachal Pradesh,India,2023-09-07,Platinum,Yes
+C000435,Anvi,Sundaram,Female,boasetejas@example.org,6422495164,Sagar,Arunachal Pradesh,India,2023-01-26,Gold,No
+C000436,Yashvi,Sankaran,Female,wedwin@example.org,7665740706,Sambalpur,Maharashtra,India,2024-02-01,Gold,No
+C000437,Arnav,Acharya,Female,myra06@example.net,6821403512,Udupi,Haryana,India,2023-07-25,Silver,No
+C000438,Pihu,Sarna,Male,jiya98@example.com,7102671541,Motihari,Andhra Pradesh,India,2024-11-18,Gold,No
+C000439,Samiha,Khalsa,Male,saralall@example.org,1295620571,Bangalore,Assam,India,2023-09-03,Gold,No
+C000440,Himmat,Chad,Male,nitara46@example.com,8904565235,Munger,Arunachal Pradesh,India,2023-05-17,Platinum,Yes
+C000441,Rohan,Vaidya,Female,aradhya68@example.org,3608573802,Patna,Himachal Pradesh,India,2021-08-26,Silver,Yes
+C000442,Ivana,Iyengar,Male,madhuprau@example.com,4025618675,Bokaro,Haryana,India,2024-05-10,Silver,No
+C000443,Taran,Dubey,Female,navya64@example.org,9215197824,Panchkula,Tripura,India,2021-10-15,Silver,Yes
+C000444,Sana,Sur,Female,zbumb@example.net,0892014085,Dehri,Goa,India,2023-01-31,Gold,No
+C000445,Bhamini,Suresh,Female,vdeep@example.org,9966603882,Pudukkottai,Assam,India,2022-05-05,Gold,No
+C000446,Ehsaan,Batta,Female,ojassachdeva@example.net,1372848511,Berhampore,Uttarakhand,India,2025-08-13,Platinum,Yes
+C000447,Aarav,Halder,Male,vborra@example.org,5419915028,Chinsurah,Himachal Pradesh,India,2022-08-03,Silver,Yes
+C000448,Amira,Bhardwaj,Female,ishroff@example.org,8593873788,Deoghar,Mizoram,India,2022-05-06,Silver,Yes
+C000449,Stuvan,Devan,Male,indransdugar@example.net,0745797807,Madhyamgram,Sikkim,India,2023-05-09,Platinum,Yes
+C000450,Alia,Garg,Female,nirvisunder@example.net,7344961536,Gwalior,Himachal Pradesh,India,2022-08-23,Platinum,Yes
+C000451,Alia,Suresh,Male,acharyaalisha@example.org,8865489624,Vellore,Gujarat,India,2023-02-16,Silver,Yes
+C000452,Dishani,Randhawa,Male,tailormamooty@example.com,8792198775,Kadapa,Goa,India,2022-07-14,Silver,Yes
+C000453,Kaira,Dhawan,Female,gsawhney@example.com,5723827711,Suryapet,Arunachal Pradesh,India,2024-04-27,Gold,No
+C000454,Anay,Mane,Female,mhora@example.org,0413941887,Guntakal,Telangana,India,2023-09-19,Platinum,Yes
+C000455,Kavya,Golla,Female,hdatta@example.com,7221915825,Mira-Bhayandar,Sikkim,India,2026-06-15,Gold,No
+C000456,Anya,Behl,Female,krish30@example.com,0714118345,Thoothukudi,Maharashtra,India,2021-09-06,Platinum,No
+C000457,Saanvi,Deep,Male,vidur63@example.org,7543312552,Loni,Jharkhand,India,2024-03-26,Silver,Yes
+C000458,Neysa,Kakar,Male,vritika83@example.net,6093119674,Bardhaman,Goa,India,2025-01-13,Platinum,Yes
+C000459,Navya,Sabharwal,Female,shayakrastogi@example.net,3547609908,Moradabad,Andhra Pradesh,India,2025-04-11,Silver,Yes
+C000460,Ojas,Uppal,Male,zarasom@example.net,1772946985,Mehsana,Meghalaya,India,2023-07-15,Gold,No
+C000461,Aarav,Balan,Female,lsuri@example.net,1884412350,Jamnagar,Goa,India,2025-05-12,Platinum,Yes
+C000462,Priyansh,Sachar,Male,aayush51@example.com,0445126444,Katihar,Meghalaya,India,2022-01-04,Platinum,Yes
+C000463,Urvi,Balakrishnan,Female,qgupta@example.net,5952804053,Solapur,Chhattisgarh,India,2022-08-07,Silver,Yes
+C000464,Adah,Sibal,Female,edeshpande@example.net,3371540436,Amroha,Odisha,India,2022-12-19,Platinum,Yes
+C000465,Jayant,Kadakia,Male,bedirania@example.com,7003183550,Shimla,West Bengal,India,2024-02-20,Platinum,Yes
+C000466,Purab,Bahl,Male,ryan84@example.org,9433634878,Khammam,Odisha,India,2026-03-17,Silver,No
+C000467,Mamooty,Sethi,Female,echaudhary@example.net,4416281449,Hapur,Meghalaya,India,2023-03-14,Gold,No
+C000468,Samar,Jain,Male,urvisundaram@example.org,7546178242,Ichalkaranji,Nagaland,India,2026-06-13,Platinum,Yes
+C000469,Dhanush,Hans,Female,drishyadhawan@example.net,0963350498,Berhampur,Telangana,India,2025-12-17,Platinum,No
+C000470,Stuvan,Balasubramanian,Female,amiravyas@example.com,7891431378,Bokaro,Telangana,India,2025-04-05,Gold,No
+C000471,Shanaya,Mandal,Male,mamootyvenkatesh@example.com,9248217916,Imphal,Haryana,India,2025-09-18,Silver,Yes
+C000472,Dhruv,Rastogi,Female,qgola@example.com,6027046508,Kottayam,Assam,India,2022-12-30,Platinum,No
+C000473,Ishita,Gopal,Male,yakshitsundaram@example.com,8064113660,Rajahmundry,Assam,India,2025-02-23,Silver,Yes
+C000474,Myra,Venkatesh,Female,ybhalla@example.org,2635894093,Nizamabad,Sikkim,India,2022-07-06,Platinum,No
+C000475,Mannat,Kade,Male,kabir64@example.net,4477250238,Thane,Kerala,India,2022-04-22,Gold,Yes
+C000476,Samarth,Apte,Male,zain67@example.net,7742249869,Hubli–Dharwad,Bihar,India,2023-01-25,Gold,No
+C000477,Arhaan,Bhardwaj,Female,elakshi81@example.com,2784517349,Bardhaman,Arunachal Pradesh,India,2024-02-03,Gold,No
+C000478,Nehmat,Dutt,Male,esastry@example.net,7158485972,Varanasi,Odisha,India,2021-11-01,Silver,Yes
+C000479,Mishti,Saha,Female,hazel98@example.net,6448919115,Gopalpur,Jharkhand,India,2021-10-05,Silver,No
+C000480,Yuvaan,Bal,Male,ishaanbasu@example.net,0729660577,Bhimavaram,Himachal Pradesh,India,2024-01-05,Silver,No
+C000481,Divit,Kant,Male,ramashlok@example.org,6167498927,Thane,Tripura,India,2023-01-31,Gold,Yes
+C000482,Jivika,Suri,Female,lankatarini@example.org,9094204198,Bhubaneswar,Kerala,India,2023-09-15,Silver,No
+C000483,Raunak,Saxena,Male,goswamikhushi@example.net,5156223800,Nashik,Telangana,India,2026-03-13,Gold,No
+C000484,Ishita,Barad,Male,hsharma@example.com,8365261747,Kharagpur,Tamil Nadu,India,2025-12-29,Silver,Yes
+C000485,Trisha,Dhaliwal,Female,miraansahni@example.net,1026307074,Thoothukudi,Jharkhand,India,2024-01-23,Silver,Yes
+C000486,Anaya,Kaul,Female,dmangal@example.com,1661306701,Latur,Bihar,India,2025-10-12,Gold,No
+C000487,Samarth,Swamy,Male,arnav13@example.com,4787145828,Jamnagar,West Bengal,India,2022-06-17,Silver,Yes
+C000488,Shanaya,Khare,Female,jivinkala@example.org,9319864527,Jaunpur,Himachal Pradesh,India,2024-12-05,Gold,No
+C000489,Damini,Shroff,Male,zainasaran@example.org,1281955055,Bulandshahr,Tamil Nadu,India,2025-01-03,Silver,Yes
+C000490,Devansh,Dubey,Female,mastersumer@example.net,4560601807,Kadapa,Assam,India,2022-03-02,Gold,No
+C000491,Alisha,Krishnan,Male,zbehl@example.net,2793523477,Etawah,Assam,India,2022-03-23,Platinum,No
+C000492,Sana,Chaudhry,Female,kanavsaini@example.net,3072574837,Siwan,Odisha,India,2024-01-26,Silver,No
+C000493,Amira,Bhattacharyya,Male,vaibhav05@example.com,2948423106,Malda,Madhya Pradesh,India,2023-08-28,Silver,Yes
+C000494,Miraan,Wadhwa,Female,ivansengupta@example.com,8603944435,Tadepalligudem,Tripura,India,2024-11-19,Platinum,Yes
+C000495,Charvi,Gole,Male,madanlakshit@example.net,7901917729,Patna,Himachal Pradesh,India,2025-05-30,Platinum,Yes
+C000496,Jivin,Badami,Male,vaibhavchoudhary@example.com,7527823747,Kishanganj,Tripura,India,2023-08-25,Platinum,Yes
+C000497,Tushar,Sankar,Male,nirvaanbora@example.org,6730523126,Nizamabad,Punjab,India,2025-07-08,Gold,Yes
+C000498,Lakshay,Bumb,Male,charviverma@example.com,0836933715,Kollam,Andhra Pradesh,India,2023-08-24,Platinum,Yes
+C000499,Ishita,Iyengar,Male,anahitacherian@example.net,6820930772,Mahbubnagar,Chhattisgarh,India,2022-03-04,Gold,No
+C000500,Sana,Dua,Male,buchdishani@example.com,5724281705,Nagercoil,Goa,India,2023-09-28,Platinum,No
+C000501,Tara,Swaminathan,Female,anahitagoda@example.com,3194293403,Hajipur,Odisha,India,2026-03-03,Silver,Yes
+C000502,Madhav,Krishnamurthy,Male,dineshani@example.net,9985142647,Nashik,Sikkim,India,2025-02-20,Gold,Yes
+C000503,Amani,Shanker,Male,nirvaanbera@example.com,3673666379,Dehri,Assam,India,2025-06-10,Platinum,Yes
+C000504,Nitya,Jayaraman,Male,eshanibajaj@example.net,1572557794,Dhule,Sikkim,India,2025-10-27,Gold,No
+C000505,Pihu,Ramesh,Male,tanejasana@example.org,6412284780,Jamshedpur,Himachal Pradesh,India,2025-09-29,Silver,Yes
+C000506,Purab,Hegde,Female,bjohal@example.net,3061709773,Thiruvananthapuram,Odisha,India,2022-05-07,Platinum,Yes
+C000507,Arnav,Uppal,Female,chanaela@example.com,9984768025,Mango,Tripura,India,2022-05-12,Silver,No
+C000508,Riaan,Kaul,Female,ritvik51@example.net,0743959837,Ghaziabad,Maharashtra,India,2023-03-16,Silver,No
+C000509,Suhana,Chadha,Male,aaryahi95@example.com,3311688554,Sirsa,Karnataka,India,2022-01-31,Silver,Yes
+C000510,Azad,Sur,Female,sanakaul@example.org,3535549120,Tinsukia,Andhra Pradesh,India,2025-05-16,Platinum,No
+C000511,Ojas,Lala,Male,saanvi76@example.com,4015076816,Barasat,West Bengal,India,2024-01-19,Platinum,No
+C000512,Hunar,Agate,Male,samar74@example.org,3730220579,Kulti,Madhya Pradesh,India,2023-01-31,Silver,No
+C000513,Seher,Varkey,Female,shamik21@example.net,6837892428,Noida,Andhra Pradesh,India,2025-02-19,Gold,Yes
+C000514,Akarsh,Varma,Female,bediyuvraj@example.com,9075232387,Rohtak,Meghalaya,India,2025-02-17,Platinum,No
+C000515,Heer,Desai,Female,krish78@example.net,6895678124,Hapur,Himachal Pradesh,India,2022-11-30,Platinum,No
+C000516,Nakul,Soman,Female,godaumang@example.com,9208371048,Gwalior,Nagaland,India,2022-06-30,Silver,Yes
+C000517,Elakshi,Aggarwal,Female,badalkala@example.com,3206150837,Kalyan-Dombivli,Punjab,India,2026-06-04,Platinum,No
+C000518,Rhea,Agarwal,Male,kohliparinaaz@example.net,0580329431,Shimoga,Tripura,India,2022-02-15,Platinum,Yes
+C000519,Priyansh,Kant,Female,parikala@example.net,5662148336,Bhind,Andhra Pradesh,India,2021-10-07,Platinum,No
+C000520,Faiyaz,Ramaswamy,Female,misha94@example.org,0498231455,Alappuzha,Gujarat,India,2024-02-09,Platinum,Yes
+C000521,Manjari,Saran,Male,jkalita@example.com,5371455370,Avadi,Uttar Pradesh,India,2025-09-20,Platinum,No
+C000522,Vedika,Srinivas,Female,horagokul@example.net,9083364858,Tadipatri,Assam,India,2021-12-23,Silver,No
+C000523,Kashvi,Dubey,Male,xgala@example.com,0817479269,Dibrugarh,Madhya Pradesh,India,2023-07-31,Gold,No
+C000524,Raghav,Bhat,Female,ghoshalia@example.net,4136447164,Bilaspur,Karnataka,India,2024-11-07,Platinum,No
+C000525,Yuvaan,Bhatti,Male,wasonmyra@example.org,1421122953,Meerut,Rajasthan,India,2023-05-09,Gold,Yes
+C000526,Ivan,Dutt,Female,yasminissac@example.net,9110337033,Mehsana,Tamil Nadu,India,2023-03-31,Platinum,Yes
+C000527,Stuvan,Baria,Female,walimahika@example.com,0295824402,Darbhanga,Kerala,India,2021-11-13,Gold,Yes
+C000528,Anahi,Sunder,Female,jiya30@example.org,5866635105,Jaipur,Bihar,India,2023-01-17,Gold,Yes
+C000529,Kismat,Chad,Male,sdyal@example.com,5271677791,Aizawl,Nagaland,India,2025-04-11,Silver,No
+C000530,Madhup,Shankar,Female,mehul45@example.net,6842539474,Imphal,Manipur,India,2022-08-26,Platinum,Yes
+C000531,Ayesha,Chakraborty,Female,bansaltarini@example.com,8518643061,Tiruppur,Madhya Pradesh,India,2023-08-17,Platinum,Yes
+C000532,Yakshit,Sanghvi,Male,navyaborah@example.net,6904915270,Nizamabad,Jharkhand,India,2024-03-29,Silver,Yes
+C000533,Fateh,Bhasin,Female,mbhatti@example.com,0860128664,Pune,Haryana,India,2024-10-27,Silver,Yes
+C000534,Anahi,Korpal,Male,agill@example.org,5877320943,Guntakal,Haryana,India,2026-06-12,Silver,Yes
+C000535,Romil,Comar,Female,vmani@example.com,8968068879,Bhagalpur,Odisha,India,2023-05-08,Silver,Yes
+C000536,Riya,Verma,Male,advika32@example.org,9743260286,Ozhukarai,Maharashtra,India,2026-07-06,Platinum,Yes
+C000537,Jiya,Barman,Male,rajaraunak@example.com,7009672672,Sambhal,Andhra Pradesh,India,2024-09-11,Platinum,Yes
+C000538,Neysa,Bains,Male,ryan39@example.net,7970827332,Pondicherry,Jharkhand,India,2024-02-23,Platinum,No
+C000539,Amira,Kunda,Female,kadakiakeya@example.net,5892837971,Miryalaguda,Uttar Pradesh,India,2026-05-25,Silver,Yes
+C000540,Samiha,Amble,Male,gopalmiraan@example.org,3426039780,Silchar,Chhattisgarh,India,2025-11-11,Gold,No
+C000541,Riaan,Sangha,Female,kiaan90@example.net,5423650678,Korba,West Bengal,India,2022-11-18,Silver,No
+C000542,Zaina,Ghose,Male,sundarammanjari@example.com,0687118216,Srinagar,Sikkim,India,2026-03-17,Silver,Yes
+C000543,Samaira,Mannan,Male,dubejhanvi@example.net,9752870323,Shimoga,Rajasthan,India,2026-01-06,Gold,No
+C000544,Yakshit,Rajagopal,Male,manikya52@example.net,2471709383,Nashik,Manipur,India,2025-10-21,Gold,Yes
+C000545,Jivika,Dugal,Female,khuranaakarsh@example.net,3543245562,Phagwara,Himachal Pradesh,India,2026-03-12,Platinum,No
+C000546,Diya,Kapoor,Female,paridatta@example.net,2475069815,Aligarh,Haryana,India,2025-09-25,Gold,Yes
+C000547,Taran,Lal,Male,gardefaiyaz@example.org,5319644814,Tiruchirappalli,Uttarakhand,India,2026-03-11,Silver,No
+C000548,Elakshi,Goswami,Female,karishaan@example.com,2826935460,Hospet,Jharkhand,India,2026-06-22,Platinum,No
+C000549,Kismat,Bahri,Male,dsoman@example.com,8015313376,Sultan Pur Majra,Karnataka,India,2026-06-04,Silver,Yes
+C000550,Yuvaan,Grewal,Male,adiracomar@example.net,8510968088,Vellore,Tamil Nadu,India,2025-08-01,Platinum,No
+C000551,Dhruv,Sangha,Male,manikyayohannan@example.net,8849776788,Silchar,Haryana,India,2022-05-04,Platinum,Yes
+C000552,Shlok,Mallick,Male,kimayakapur@example.com,2505504045,Khandwa,Goa,India,2023-11-15,Platinum,Yes
+C000553,Kiara,Baria,Male,samarthkalita@example.org,8109311655,Srinagar,Madhya Pradesh,India,2022-01-13,Gold,No
+C000554,Umang,Khatri,Female,bordekiaan@example.com,0733393412,Motihari,Gujarat,India,2024-03-02,Gold,Yes
+C000555,Hansh,Sarkar,Male,kaulkiara@example.net,9135629753,Suryapet,Himachal Pradesh,India,2022-12-19,Platinum,Yes
+C000556,Parinaaz,Rattan,Female,sennirvi@example.net,9498889531,Hapur,Nagaland,India,2024-11-16,Silver,No
+C000557,Kashvi,Dhaliwal,Male,trisha78@example.com,0848524431,Mangalore,Chhattisgarh,India,2024-05-06,Platinum,Yes
+C000558,Zoya,Viswanathan,Male,nityatank@example.org,2283193573,Sambalpur,Arunachal Pradesh,India,2024-08-22,Gold,Yes
+C000559,Chirag,Doctor,Male,anayajaggi@example.org,1821010588,Guntakal,Tripura,India,2023-08-17,Silver,No
+C000560,Hridaan,Maharaj,Female,hrishita35@example.com,3697115978,Amravati,Haryana,India,2022-03-06,Silver,Yes
+C000561,Jayant,Dutt,Female,rvarty@example.net,9487213632,Bally,Mizoram,India,2024-04-26,Silver,No
+C000562,Mishti,Srivastava,Male,svohra@example.org,0873150961,Sri Ganganagar,Manipur,India,2023-03-07,Silver,No
+C000563,Kimaya,Chandra,Female,kondaraghav@example.com,6355916468,Vijayanagaram,Goa,India,2026-06-22,Platinum,No
+C000564,Riya,Chakraborty,Male,armaan99@example.net,4369964666,Bhind,Haryana,India,2021-11-01,Gold,Yes
+C000565,Aarav,Kashyap,Female,avarghese@example.net,8913236851,Bhind,Telangana,India,2024-07-25,Platinum,No
+C000566,Nitara,Bava,Female,mgade@example.com,7097644978,Ballia,Chhattisgarh,India,2023-12-03,Gold,Yes
+C000567,Gokul,Varughese,Male,psachar@example.org,0313023425,Karaikudi,Chhattisgarh,India,2025-03-01,Platinum,Yes
+C000568,Mehul,Sarma,Male,groverkanav@example.org,6533165006,Guwahati,Jharkhand,India,2022-06-23,Platinum,No
+C000569,Divyansh,Ratta,Female,jayan50@example.net,7371103902,Bhatpara,Telangana,India,2022-09-14,Gold,Yes
+C000570,Biju,Tella,Female,bhardwajadira@example.org,3278759663,Aurangabad,Goa,India,2021-12-16,Platinum,No
+C000571,Kismat,Dara,Male,obalay@example.org,6986501866,South Dumdum,Tripura,India,2024-10-31,Platinum,Yes
+C000572,Advika,Ghosh,Female,kabirsahni@example.com,2518446436,Jaunpur,Odisha,India,2022-05-16,Platinum,Yes
+C000573,Charvi,Madan,Male,dchoudhury@example.net,5232431229,Bulandshahr,Himachal Pradesh,India,2024-01-03,Silver,No
+C000574,Priyansh,Wason,Male,gsani@example.net,3337048104,Shimoga,Madhya Pradesh,India,2024-03-24,Platinum,Yes
+C000575,Dharmajan,Kapoor,Female,ayesha32@example.net,8888580468,Rajkot,Jharkhand,India,2024-12-26,Gold,No
+C000576,Tiya,Ray,Female,anvichakrabarti@example.net,2235935791,Haldia,Kerala,India,2024-08-22,Gold,Yes
+C000577,Yashvi,Badami,Male,aarna22@example.net,1559721856,Raipur,Tamil Nadu,India,2023-06-10,Platinum,Yes
+C000578,Sumer,Dass,Male,neelofar08@example.net,5751828196,Ghaziabad,Mizoram,India,2025-10-30,Silver,Yes
+C000579,Trisha,Dutta,Female,fwadhwa@example.com,7156296919,Mira-Bhayandar,Meghalaya,India,2026-04-04,Platinum,No
+C000580,Dhanush,Ganesan,Female,zbhattacharyya@example.org,5385912204,Pondicherry,West Bengal,India,2025-08-09,Gold,Yes
+C000581,Mohanlal,Sankaran,Male,amira27@example.com,7628344778,Guntakal,Jharkhand,India,2022-08-27,Platinum,No
+C000582,Vihaan,Walia,Male,priyansh52@example.net,7127481173,Dibrugarh,Nagaland,India,2025-08-09,Gold,Yes
+C000583,Tarini,Chaudhuri,Male,gchander@example.org,7502014948,Ranchi,Andhra Pradesh,India,2022-03-07,Platinum,No
+C000584,Aradhya,Kar,Male,nitara46@example.net,3733788759,Chennai,Chhattisgarh,India,2024-08-08,Gold,Yes
+C000585,Amira,Viswanathan,Male,lakshaychanda@example.net,2883104267,Tumkur,Rajasthan,India,2025-02-27,Silver,No
+C000586,Rasha,Mall,Male,taimur95@example.net,3673327809,Ajmer,Maharashtra,India,2025-03-20,Gold,Yes
+C000587,Chirag,Dua,Female,nsaran@example.org,6316512774,Amritsar,Gujarat,India,2023-12-13,Platinum,No
+C000588,Sahil,Rama,Male,thakurzoya@example.com,0028951144,Vellore,Maharashtra,India,2026-03-05,Silver,No
+C000589,Armaan,Sarraf,Female,randhawamiraya@example.org,8423560322,Phagwara,Meghalaya,India,2025-02-28,Platinum,Yes
+C000590,Hrishita,Sehgal,Male,tmannan@example.org,6835675047,Tiruchirappalli,Sikkim,India,2022-01-23,Platinum,No
+C000591,Drishya,Handa,Male,dewanraghav@example.com,6511087581,Ambarnath,Arunachal Pradesh,India,2026-02-18,Platinum,Yes
+C000592,Zoya,Dora,Male,yuvraj-32@example.com,5135349396,Bhatpara,Telangana,India,2023-06-17,Silver,No
+C000593,Indrans,Andra,Female,zainbhagat@example.com,1646155504,Karimnagar,Maharashtra,India,2025-11-28,Platinum,Yes
+C000594,Arhaan,Rege,Male,aliakeer@example.org,3805735133,Satara,Uttar Pradesh,India,2022-05-31,Silver,Yes
+C000595,Kaira,Chandran,Female,shalvlalla@example.org,4085893389,Maheshtala,Sikkim,India,2024-06-07,Platinum,No
+C000596,Aarush,Bhavsar,Male,badal92@example.org,0403711608,Rajkot,Nagaland,India,2025-07-29,Platinum,No
+C000597,Nirvi,Balasubramanian,Male,aaina91@example.org,8661534540,Saharsa,Kerala,India,2022-05-06,Gold,No
+C000598,Nishith,Bains,Female,thayre@example.org,7985675945,Nagaon,Meghalaya,India,2022-10-28,Silver,No
+C000599,Nitara,Bora,Female,singhnirvaan@example.com,3974845671,Dehri,Sikkim,India,2022-08-11,Gold,Yes
+C000600,Purab,Hari,Female,seshadrimehul@example.com,1619654223,Munger,Maharashtra,India,2023-06-23,Gold,No
+C000601,Kaira,Rattan,Female,dhanushsankar@example.org,8436348030,Gulbarga,Arunachal Pradesh,India,2022-05-25,Silver,No
+C000602,Saira,Som,Female,mishti15@example.com,0617289514,Suryapet,Jharkhand,India,2025-09-06,Gold,No
+C000603,Lakshit,Ravel,Male,charvi55@example.net,9972773879,Raichur,Goa,India,2024-10-20,Gold,No
+C000604,Navya,Doctor,Female,wablebhavin@example.net,5784520438,Kalyan-Dombivli,Tamil Nadu,India,2023-12-30,Silver,Yes
+C000605,Raunak,Trivedi,Male,fateh50@example.com,2143309436,Mysore,Odisha,India,2022-11-24,Gold,No
+C000606,Bhamini,Krish,Male,gabanayantara@example.com,9305051170,Rourkela,Uttar Pradesh,India,2026-03-31,Platinum,Yes
+C000607,Hridaan,Suresh,Male,ratimand@example.com,2035826290,Shimoga,Assam,India,2023-06-26,Silver,Yes
+C000608,Oorja,Dyal,Male,khoslabhavin@example.net,3237423666,Nadiad,Tamil Nadu,India,2026-01-05,Silver,Yes
+C000609,Manjari,Devi,Female,anahita64@example.org,0802444018,Morbi,Uttarakhand,India,2023-04-17,Gold,Yes
+C000610,Anvi,Guha,Female,ssingh@example.net,4051443390,Hapur,Bihar,India,2022-12-12,Platinum,No
+C000611,Divyansh,Ramakrishnan,Female,amanizacharia@example.net,1604159348,Salem,Mizoram,India,2026-03-01,Gold,Yes
+C000612,Dishani,Chaudhari,Male,aarnachahal@example.org,4222243626,Farrukhabad,Nagaland,India,2024-10-04,Silver,No
+C000613,Misha,Ganguly,Female,shanmahika@example.net,3128258222,Bhopal,Manipur,India,2024-07-31,Silver,Yes
+C000614,Suhana,Bakshi,Male,surnavya@example.net,1870244021,Jhansi,Odisha,India,2026-07-11,Gold,Yes
+C000615,Amira,Sarin,Male,saanvi84@example.org,9492078377,Kavali,Punjab,India,2026-01-10,Platinum,Yes
+C000616,Dhanuk,Kala,Male,kamdardhruv@example.com,1922097602,Kalyan-Dombivli,Maharashtra,India,2024-09-01,Platinum,Yes
+C000617,Taran,Sheth,Female,reyanshramanathan@example.net,1739186586,Warangal,Maharashtra,India,2026-04-29,Gold,Yes
+C000618,Keya,Joshi,Female,cloke@example.org,2068609115,Kottayam,Uttar Pradesh,India,2022-07-05,Silver,No
+C000619,Vedika,Tripathi,Female,advika35@example.net,7547182642,Khora ,Mizoram,India,2025-01-13,Gold,No
+C000620,Zeeshan,Arora,Male,jchadha@example.net,5990600543,Amravati,Gujarat,India,2024-12-01,Platinum,Yes
+C000621,Miraan,Taneja,Male,xsahni@example.net,9372795785,Kanpur,Maharashtra,India,2021-09-22,Silver,Yes
+C000622,Lakshay,Rastogi,Male,lgola@example.net,1636720405,Durgapur,Uttarakhand,India,2024-06-01,Gold,Yes
+C000623,Armaan,Basak,Male,vihaankonda@example.com,8564760533,Jalgaon,Chhattisgarh,India,2026-05-05,Silver,Yes
+C000624,Vivaan,Dara,Male,mannat12@example.org,5447720563,Kochi,Uttarakhand,India,2024-12-31,Platinum,No
+C000625,Kiara,Srivastava,Male,qchaudhari@example.com,7733716299,Howrah,Assam,India,2022-09-19,Silver,Yes
+C000626,Prerak,Sangha,Female,trishadatta@example.net,4289778858,Bhalswa Jahangir Pur,Punjab,India,2023-07-03,Gold,Yes
+C000627,Navya,Basu,Female,madhupbali@example.net,4988212337,Maheshtala,Kerala,India,2025-07-03,Silver,No
+C000628,Kabir,Sidhu,Female,oorjatoor@example.net,6462142545,Anantapuram,Odisha,India,2025-07-11,Platinum,No
+C000629,Oorja,Sha,Female,darshitrout@example.com,1568563338,Deoghar,Jharkhand,India,2023-12-19,Silver,Yes
+C000630,Aarush,Bala,Female,dasstushar@example.com,9797115286,Hyderabad,Meghalaya,India,2025-03-23,Silver,Yes
+C000631,Indrajit,Sem,Female,jseth@example.com,7221982871,Suryapet,Haryana,India,2021-11-02,Silver,Yes
+C000632,Saanvi,Bhasin,Female,banikyashvi@example.net,8244508553,Kumbakonam,Bihar,India,2026-03-13,Gold,No
+C000633,Lagan,Bhalla,Male,deepanahita@example.com,3086278974,Phagwara,Karnataka,India,2023-03-05,Gold,Yes
+C000634,Abram,Chokshi,Female,lhalder@example.org,8736693233,Pudukkottai,West Bengal,India,2022-05-11,Platinum,Yes
+C000635,Miraan,Mahal,Female,ranbirchaudhry@example.com,6263712316,Korba,Bihar,India,2025-01-21,Platinum,Yes
+C000636,Amira,Sarin,Male,jayesh53@example.org,2879048647,Ujjain,Jharkhand,India,2023-10-29,Gold,No
+C000637,Romil,Varty,Female,madhavdalal@example.com,0276589370,Bhiwandi,Nagaland,India,2024-01-23,Gold,Yes
+C000638,Vanya,Master,Female,divij45@example.com,9009479394,Nagercoil,Himachal Pradesh,India,2025-07-22,Gold,No
+C000639,Ishaan,Uppal,Female,badalshaan@example.com,5691835495,Kamarhati,Meghalaya,India,2023-05-16,Gold,Yes
+C000640,Saira,Thakkar,Female,oorja84@example.com,2234984046,Jaunpur,Gujarat,India,2023-02-15,Gold,No
+C000641,Jiya,Deshpande,Male,randhawaanvi@example.com,9072571605,Nellore,West Bengal,India,2025-04-07,Platinum,No
+C000642,Taran,Manne,Female,madhuptiwari@example.net,2476517204,Sasaram,Jharkhand,India,2022-07-01,Gold,No
+C000643,Shanaya,Khosla,Female,xbalasubramanian@example.net,2170281590,Panvel,Haryana,India,2023-04-15,Gold,Yes
+C000644,Anvi,Malhotra,Male,ekata@example.net,8066836789,Bhalswa Jahangir Pur,Assam,India,2022-01-07,Gold,Yes
+C000645,Kaira,Sem,Male,yakshit20@example.com,4522157688,Vijayawada,Andhra Pradesh,India,2024-07-18,Platinum,No
+C000646,Mamooty,Ramesh,Male,umang79@example.org,0398146476,Mira-Bhayandar,Sikkim,India,2025-06-07,Silver,No
+C000647,Amani,Bobal,Male,xhanda@example.org,7650559171,Maheshtala,Chhattisgarh,India,2023-01-17,Platinum,Yes
+C000648,Jayesh,Atwal,Female,purabiyer@example.com,3042227144,Jehanabad,Andhra Pradesh,India,2023-11-02,Gold,No
+C000649,Rohan,Deep,Female,sana85@example.org,3006135933,Bihar Sharif,Maharashtra,India,2025-03-13,Gold,No
+C000650,Pihu,Dutt,Female,lakshay95@example.net,6902174948,Jorhat,Bihar,India,2023-04-10,Gold,No
+C000651,Damini,Dalal,Female,madhupsani@example.net,5893507104,Guna,Kerala,India,2025-08-19,Silver,No
+C000652,Farhan,Dani,Male,riya97@example.org,5501724500,Bhusawal,Nagaland,India,2023-11-26,Gold,No
+C000653,Hazel,Bava,Male,sshan@example.com,4341946110,Kota,Jharkhand,India,2026-05-31,Silver,Yes
+C000654,Mamooty,Bhatti,Female,iradin@example.net,6384728909,Kumbakonam,Telangana,India,2023-04-15,Platinum,No
+C000655,Saksham,Sankar,Male,ichaudhari@example.com,1087580398,Bhagalpur,Uttarakhand,India,2022-04-26,Silver,No
+C000656,Stuvan,Ganesan,Male,dharmajanraman@example.net,4527594805,Jalna,Punjab,India,2024-10-27,Gold,No
+C000657,Navya,Sathe,Female,hbath@example.com,7415826250,Pudukkottai,Arunachal Pradesh,India,2023-01-01,Silver,Yes
+C000658,Zeeshan,Khosla,Female,inaaya-12@example.net,6315650653,Hazaribagh,Meghalaya,India,2025-07-25,Silver,No
+C000659,Vardaniya,Kibe,Male,tanya94@example.org,6768673498,Hajipur,Gujarat,India,2024-11-16,Platinum,No
+C000660,Aaina,Mangal,Male,tripathijayant@example.net,4044052502,Ballia,Odisha,India,2023-04-10,Gold,Yes
+C000661,Alisha,Gandhi,Male,dishani78@example.net,6200364386,Tiruvottiyur,Arunachal Pradesh,India,2025-05-31,Platinum,No
+C000662,Stuvan,Dave,Female,cbala@example.org,1826530982,Panchkula,Karnataka,India,2022-07-14,Gold,Yes
+C000663,Dharmajan,Bath,Female,priyansh93@example.net,6853724927,Ahmedabad,Telangana,India,2021-12-22,Platinum,No
+C000664,Onkar,Chaudhuri,Male,hunarbhasin@example.org,2475881430,Amaravati,Meghalaya,India,2023-07-08,Platinum,No
+C000665,Biju,Lalla,Female,bijubhardwaj@example.net,7896004191,Srinagar,Meghalaya,India,2026-03-30,Gold,No
+C000666,Zara,Batta,Female,adahwason@example.org,1243617675,Salem,Sikkim,India,2022-03-19,Gold,No
+C000667,Yasmin,Atwal,Male,mannmiraya@example.com,6657896922,Machilipatnam,Telangana,India,2024-08-25,Platinum,Yes
+C000668,Nirvaan,Gulati,Male,heerkhurana@example.net,5342759724,Ajmer,Chhattisgarh,India,2024-10-01,Silver,No
+C000669,Zain,Sodhi,Female,prerak39@example.net,8212057939,Mau,Mizoram,India,2024-01-19,Gold,Yes
+C000670,Shaan,Bhakta,Female,gsarraf@example.com,1208105725,Lucknow,Tripura,India,2022-06-01,Gold,No
+C000671,Pari,Chowdhury,Male,amaharaj@example.net,7685607562,Jalandhar,Karnataka,India,2024-07-30,Platinum,No
+C000672,Hunar,Soman,Male,sumer41@example.org,9013880846,Amroha,Manipur,India,2024-11-07,Silver,No
+C000673,Sahil,Gala,Male,aaryahidua@example.net,6127381858,Dehradun,Odisha,India,2025-08-28,Silver,No
+C000674,Divit,Das,Male,kashvi68@example.com,8439250267,Delhi,Manipur,India,2022-11-28,Gold,No
+C000675,Taimur,Bedi,Male,yasmin16@example.net,5466391877,Bhavnagar,Odisha,India,2021-11-20,Gold,No
+C000676,Ritvik,Dhingra,Male,sanachokshi@example.org,7979789432,Adoni,West Bengal,India,2022-02-20,Gold,No
+C000677,Umang,Shanker,Female,sridhardishani@example.org,0551362531,Bhilwara,Goa,India,2025-08-14,Platinum,Yes
+C000678,Parinaaz,Soman,Female,tanejaparinaaz@example.org,8544673443,Anand,Manipur,India,2023-07-17,Gold,Yes
+C000679,Mohanlal,Khatri,Female,ikrish@example.net,0731201051,Ahmednagar,Madhya Pradesh,India,2025-11-19,Gold,No
+C000680,Charvi,Ben,Male,butalabadal@example.net,7249234526,Bhusawal,Tripura,India,2024-10-18,Gold,No
+C000681,Aarush,Bhardwaj,Female,krish11@example.org,8786518319,Panvel,Gujarat,India,2023-05-06,Platinum,No
+C000682,Elakshi,Rao,Female,divitrege@example.net,9123931166,Akola,Himachal Pradesh,India,2024-01-28,Silver,Yes
+C000683,Raunak,Ramanathan,Male,rasha45@example.net,8626622640,Hubli–Dharwad,Sikkim,India,2024-07-07,Platinum,No
+C000684,Vardaniya,Deol,Female,vedikajoshi@example.net,2526876288,Singrauli,Manipur,India,2024-11-07,Gold,Yes
+C000685,Jayant,Khalsa,Female,kashvi27@example.com,8993349505,Morbi,Chhattisgarh,India,2022-04-16,Gold,No
+C000686,Khushi,Keer,Female,saraborra@example.net,1178207414,Haridwar,Assam,India,2026-07-23,Gold,No
+C000687,Ojas,Divan,Male,ibali@example.net,6378860518,Cuttack,Tripura,India,2025-12-26,Gold,No
+C000688,Rati,Warrior,Male,laganjha@example.com,0052413575,Aurangabad,Arunachal Pradesh,India,2023-04-01,Silver,No
+C000689,Kavya,Varughese,Female,rattiaarav@example.org,2751125896,Kottayam,Andhra Pradesh,India,2021-10-26,Silver,Yes
+C000690,Ira,Sachdev,Male,saira29@example.org,2030205038,Saharsa,Tripura,India,2024-10-23,Platinum,No
+C000691,Aarna,Bahl,Male,wravi@example.org,6160948803,Tadipatri,Madhya Pradesh,India,2026-04-16,Platinum,Yes
+C000692,Emir,Bora,Female,badalbobal@example.com,0084983507,Agra,Uttar Pradesh,India,2025-01-05,Gold,No
+C000693,Gatik,Johal,Female,fmann@example.com,8051694464,Kadapa,Bihar,India,2023-02-13,Platinum,Yes
+C000694,Adah,Bhattacharyya,Male,vidur53@example.net,7911431082,Raebareli,Assam,India,2023-06-04,Platinum,Yes
+C000695,Tarini,Apte,Male,indrajit51@example.net,2675811176,Deoghar,Himachal Pradesh,India,2021-08-23,Silver,Yes
+C000696,Parinaaz,Kalla,Female,tanya12@example.net,4665297483,Siwan,Odisha,India,2021-08-11,Silver,No
+C000697,Seher,Gola,Female,advikalalla@example.net,5695002580,Mira-Bhayandar,Uttar Pradesh,India,2025-04-13,Silver,No
+C000698,Diya,Bawa,Male,divijbansal@example.org,4506532097,Khammam,Maharashtra,India,2022-06-11,Silver,No
+C000699,Anay,Ghosh,Female,zben@example.org,2248045394,Indore,Telangana,India,2026-04-22,Platinum,No
+C000700,Nirvi,Deshmukh,Male,rheaapte@example.org,5398560570,Patiala,Nagaland,India,2023-04-03,Platinum,Yes
+C000701,Onkar,Shetty,Female,jgill@example.net,9657904345,Panipat,Himachal Pradesh,India,2021-08-16,Silver,Yes
+C000702,Farhan,Sheth,Female,indrajit26@example.org,3537568558,Jamalpur,Telangana,India,2022-01-19,Platinum,Yes
+C000703,Yuvraj ,Chahal,Female,ssaran@example.net,4377357042,Ujjain,Telangana,India,2022-09-22,Platinum,No
+C000704,Uthkarsh,Sur,Male,riaansant@example.org,1814116751,Jalgaon,Rajasthan,India,2022-03-06,Platinum,No
+C000705,Abram,Golla,Male,vaibhavben@example.net,3365151358,Raiganj,Maharashtra,India,2021-09-20,Platinum,No
+C000706,Abram,Keer,Female,gokulben@example.org,1757311918,Tirunelveli,Kerala,India,2021-09-12,Platinum,Yes
+C000707,Damini,Brahmbhatt,Female,pranaytandon@example.org,7211002890,Nagaon,West Bengal,India,2022-12-28,Platinum,No
+C000708,Elakshi,Lal,Female,priyanshratti@example.net,4138573246,Varanasi,Sikkim,India,2026-02-09,Platinum,Yes
+C000709,Elakshi,Bhargava,Female,yuvraj-dar@example.net,1628712364,Vadodara,Nagaland,India,2025-04-24,Silver,No
+C000710,Jayant,Ghosh,Female,anneshamik@example.net,7615770827,Pimpri-Chinchwad,Uttarakhand,India,2024-10-30,Platinum,Yes
+C000711,Aaryahi,Jain,Male,gatikbora@example.net,8392373929,Panihati,Jharkhand,India,2023-02-16,Platinum,No
+C000712,Vardaniya,Loke,Male,duttasamarth@example.net,4072361241,Chennai,Gujarat,India,2024-09-30,Gold,Yes
+C000713,Amira,Mani,Female,samairamadan@example.com,2584144675,Guna,Kerala,India,2022-01-25,Gold,Yes
+C000714,Vardaniya,Rau,Female,kapadiaalia@example.net,5685131015,Patiala,Nagaland,India,2023-01-29,Gold,Yes
+C000715,Priyansh,Bhakta,Male,madhup50@example.net,8174878397,Howrah,Tamil Nadu,India,2023-05-07,Silver,Yes
+C000716,Indrans,Sharaf,Male,huppal@example.net,8260586648,Dhanbad,Chhattisgarh,India,2023-01-03,Platinum,No
+C000717,Ishaan,Bains,Female,subramaniamneelofar@example.net,0380670446,Gurgaon,Uttarakhand,India,2024-05-13,Platinum,Yes
+C000718,Neysa,Malhotra,Female,ibajaj@example.com,7083394680,Hospet,Andhra Pradesh,India,2026-01-26,Silver,No
+C000719,Mehul,Kakar,Male,arattan@example.com,2544166098,Pune,Tripura,India,2024-01-16,Platinum,No
+C000720,Elakshi,Ramaswamy,Female,pmandal@example.org,9100896860,Durg,West Bengal,India,2024-10-08,Silver,No
+C000721,Biju,Balakrishnan,Male,diya11@example.org,5299140769,Jehanabad,Manipur,India,2024-07-23,Gold,No
+C000722,Purab,Bahri,Male,manikyabansal@example.org,3943191908,Khora ,Kerala,India,2021-09-26,Silver,No
+C000723,Saanvi,Rattan,Female,gopalmiraan@example.net,9271550021,Thoothukudi,Madhya Pradesh,India,2024-02-26,Silver,No
+C000724,Aradhya,Ghose,Male,skhatri@example.org,2914147310,Mehsana,Nagaland,India,2025-05-27,Silver,Yes
+C000725,Veer,Deshpande,Female,manikya48@example.com,2090353279,Saharsa,Manipur,India,2025-11-20,Silver,Yes
+C000726,Elakshi,Gour,Male,sbhandari@example.org,0293454268,Jehanabad,Telangana,India,2021-12-03,Gold,Yes
+C000727,Kavya,Balan,Male,dishanibala@example.net,9865723924,Shivpuri,Haryana,India,2024-10-21,Platinum,Yes
+C000728,Darshit,Bir,Female,mishti01@example.org,8279332079,Sasaram,Haryana,India,2021-11-25,Silver,Yes
+C000729,Siya,Bahri,Female,stuvandhillon@example.net,1146765407,Anantapur,Nagaland,India,2022-08-08,Platinum,Yes
+C000730,Ehsaan,Bakshi,Female,saanvikulkarni@example.org,9845669578,Bhopal,Uttarakhand,India,2023-04-18,Silver,Yes
+C000731,Zeeshan,Sem,Female,chandranparinaaz@example.com,9694652335,Jalgaon,Nagaland,India,2021-12-07,Platinum,Yes
+C000732,Kiara,Thaman,Male,lsaha@example.org,5131512619,Hosur,Manipur,India,2021-09-10,Platinum,No
+C000733,Taran,Garg,Female,emaster@example.com,3838480986,Maheshtala,Uttarakhand,India,2021-08-16,Platinum,No
+C000734,Bhavin,Sankar,Male,jhanviseshadri@example.net,8347886679,Panihati,Chhattisgarh,India,2024-04-29,Gold,Yes
+C000735,Abram,Kala,Male,jayant14@example.com,1673851910,Mumbai,Punjab,India,2023-07-28,Silver,Yes
+C000736,Diya,Babu,Male,baralnitara@example.org,6743826726,Kishanganj,Karnataka,India,2024-05-15,Gold,Yes
+C000737,Ritvik,Khurana,Female,neysachhabra@example.org,6390513297,Surat,Uttarakhand,India,2023-03-19,Gold,Yes
+C000738,Pari,Iyengar,Male,lavanya46@example.org,7081923290,Silchar,Himachal Pradesh,India,2024-02-08,Gold,Yes
+C000739,Hunar,Samra,Male,krishonkar@example.org,0111979597,Bhusawal,Punjab,India,2026-04-01,Silver,No
+C000740,Sana,Kohli,Male,jivin01@example.net,1381435047,Berhampur,Haryana,India,2022-10-14,Platinum,Yes
+C000741,Anahita,Anne,Female,keyasangha@example.com,3421763230,Bhavnagar,Meghalaya,India,2022-03-01,Platinum,Yes
+C000742,Vihaan,Basu,Male,rramanathan@example.org,5057658314,Sikar,Telangana,India,2024-07-09,Gold,No
+C000743,Kanav,Bahl,Female,xkibe@example.com,5408657875,Faridabad,Punjab,India,2023-11-21,Silver,Yes
+C000744,Charvi,Gulati,Female,heerdayal@example.com,3422910524,Serampore,Sikkim,India,2022-11-08,Silver,Yes
+C000745,Aayush,Kapoor,Female,akarsh86@example.com,5299706481,Firozabad,Karnataka,India,2022-03-15,Gold,Yes
+C000746,Azad,Chaudhry,Male,kanavkothari@example.org,2558757917,Thrissur,Telangana,India,2023-09-01,Platinum,Yes
+C000747,Chirag,Singhal,Female,golaivan@example.com,4878637587,Surat,Odisha,India,2021-12-13,Platinum,No
+C000748,Badal,Maharaj,Male,evavohra@example.com,8922811763,Ulhasnagar,Karnataka,India,2023-06-04,Gold,Yes
+C000749,Nehmat,Saran,Male,skara@example.com,5928406640,Bhopal,Gujarat,India,2025-06-23,Gold,Yes
+C000750,Hunar,Ray,Male,laganmanne@example.org,1355416483,Karaikudi,Meghalaya,India,2026-01-17,Silver,Yes
+C000751,Farhan,Edwin,Male,bhavinbalakrishnan@example.org,1971777886,Vadodara,Kerala,India,2023-11-15,Gold,No
+C000752,Gatik,Soni,Female,vdesai@example.com,2596914035,Begusarai,Jharkhand,India,2022-10-07,Gold,Yes
+C000753,Jivin,Deo,Male,csaha@example.com,5341006839,Jodhpur,Manipur,India,2022-05-26,Gold,Yes
+C000754,Lagan,Sawhney,Female,sbail@example.net,5831178743,Vellore,Madhya Pradesh,India,2025-03-21,Silver,Yes
+C000755,Veer,Jaggi,Male,raviyuvaan@example.com,4717185976,Siwan,Madhya Pradesh,India,2025-03-05,Platinum,No
+C000756,Shaan,Deshpande,Female,baiju06@example.com,2712587626,Kozhikode,Tripura,India,2021-08-07,Silver,Yes
+C000757,Dhruv,Manne,Male,samarthapte@example.net,3131356080,Gorakhpur,Manipur,India,2022-01-24,Platinum,No
+C000758,Yuvraj ,Sahota,Male,jayan23@example.org,5060444045,Deoghar,Arunachal Pradesh,India,2025-09-03,Platinum,Yes
+C000759,Siya,Chaudry,Female,zcherian@example.com,2200056457,Faridabad,Madhya Pradesh,India,2023-04-22,Silver,No
+C000760,Ranbir,Shukla,Female,gatikcomar@example.net,7477028070,Raebareli,Haryana,India,2022-06-28,Platinum,Yes
+C000761,Seher,Ramakrishnan,Female,aayush62@example.org,9454224695,Kharagpur,Uttarakhand,India,2024-02-04,Platinum,Yes
+C000762,Ahana ,Tara,Female,bavalakshit@example.com,0001752146,Bhalswa Jahangir Pur,Andhra Pradesh,India,2022-11-24,Gold,No
+C000763,Pari,Randhawa,Female,ishitacherian@example.com,6431857933,Jalandhar,Gujarat,India,2022-04-29,Silver,Yes
+C000764,Nayantara,Grover,Female,vardaniyalad@example.net,9864787824,Buxar,Andhra Pradesh,India,2025-12-13,Silver,Yes
+C000765,Shaan,Din,Female,bhattimadhup@example.org,1706692610,Gandhidham,Punjab,India,2024-06-13,Platinum,Yes
+C000766,Aarav,Sarkar,Female,msinha@example.com,7612255878,Davanagere,Uttar Pradesh,India,2024-08-03,Gold,No
+C000767,Mishti,Buch,Male,ranbir25@example.org,8938077541,Chandrapur,Maharashtra,India,2025-01-12,Silver,Yes
+C000768,Nehmat,Bahri,Male,atailor@example.org,4108811089,Dehri,Himachal Pradesh,India,2026-04-30,Platinum,No
+C000769,Sumer,Dass,Male,gardelakshit@example.org,4199387750,Ludhiana,Uttarakhand,India,2022-04-11,Gold,No
+C000770,Inaaya ,Soman,Female,ramachandrananaya@example.org,6513902101,Muzaffarpur,Sikkim,India,2024-04-03,Gold,Yes
+C000771,Ivan,Jani,Male,ckata@example.org,5261192586,Parbhani,Uttar Pradesh,India,2024-10-08,Platinum,Yes
+C000772,Indrajit,Goda,Male,riaan56@example.net,4989830679,Tadipatri,Gujarat,India,2024-02-17,Silver,Yes
+C000773,Ritvik,Seshadri,Male,grewalumang@example.org,5676540210,Bilaspur,Gujarat,India,2022-06-17,Gold,Yes
+C000774,Darshit,Randhawa,Male,shanayakaur@example.org,5141590088,Mehsana,Madhya Pradesh,India,2022-12-06,Platinum,Yes
+C000775,Taimur,Sanghvi,Male,ydixit@example.net,3094519699,Udupi,Goa,India,2023-07-16,Platinum,Yes
+C000776,Dishani,Kala,Female,vedikasalvi@example.net,2034913031,Ahmednagar,Chhattisgarh,India,2023-05-14,Platinum,Yes
+C000777,Dharmajan,Shenoy,Female,handasamaira@example.org,1164813620,Miryalaguda,Meghalaya,India,2024-02-07,Gold,No
+C000778,Advik,Chandran,Female,gokul44@example.com,7954945266,Bharatpur,Kerala,India,2022-03-18,Gold,No
+C000779,Tushar,Dyal,Male,svora@example.org,3137843536,Mango,Nagaland,India,2023-05-30,Gold,No
+C000780,Ira,Bedi,Male,samaira77@example.com,4292336029,Narasaraopet,Tripura,India,2024-09-26,Silver,No
+C000781,Yasmin,Ram,Male,luthraprerak@example.net,6942018410,Rajkot,Maharashtra,India,2022-03-11,Gold,Yes
+C000782,Akarsh,Krishnan,Male,jkala@example.org,5733541907,Rajkot,Bihar,India,2023-01-15,Platinum,No
+C000783,Ahana ,Kant,Female,sahayakshit@example.org,8285352695,Mumbai,Goa,India,2023-12-17,Silver,Yes
+C000784,Zeeshan,Iyer,Male,ahana-dalia@example.org,3533002433,Pune,Uttar Pradesh,India,2026-04-20,Silver,Yes
+C000785,Aaina,Kari,Female,chirag37@example.net,6459653758,Belgaum,Gujarat,India,2022-09-24,Silver,Yes
+C000786,Vedika,Goda,Female,ajhaveri@example.org,7564322021,Siliguri,Tamil Nadu,India,2025-05-25,Silver,Yes
+C000787,Lagan,Atwal,Male,myra12@example.com,1745552470,Gulbarga,Telangana,India,2023-01-09,Silver,No
+C000788,Yashvi,Bora,Female,zkalla@example.com,8275571794,Guntur,West Bengal,India,2024-03-03,Gold,Yes
+C000789,Jiya,Uppal,Male,ygarde@example.com,9275343977,Ajmer,Goa,India,2022-07-18,Silver,Yes
+C000790,Sumer,Dhingra,Female,ishita83@example.net,6926910168,Sangli-Miraj & Kupwad,Sikkim,India,2024-01-09,Silver,No
+C000791,Raghav,Bir,Female,jayant14@example.com,7321960975,Ghaziabad,Tripura,India,2025-05-31,Platinum,Yes
+C000792,Sana,Dubey,Female,fdhillon@example.com,4910902613,Chittoor,Meghalaya,India,2024-08-07,Silver,No
+C000793,Anvi,Chadha,Female,pchanda@example.org,5764201342,Gwalior,Telangana,India,2024-09-05,Silver,Yes
+C000794,Divit,Chakrabarti,Male,jayan38@example.net,2674435365,Eluru,Himachal Pradesh,India,2024-09-08,Gold,Yes
+C000795,Kavya,Ramaswamy,Female,usaraf@example.org,7098283825,Kottayam,Gujarat,India,2026-04-01,Gold,Yes
+C000796,Ela,Handa,Male,golekiaan@example.com,6953813491,Bulandshahr,Jharkhand,India,2025-08-21,Platinum,No
+C000797,Divit,Chhabra,Female,kumarsaira@example.net,4532205302,Baranagar,Manipur,India,2024-01-27,Silver,Yes
+C000798,Anahita,Sarna,Male,cramachandran@example.com,5431981794,Surendranagar Dudhrej,Maharashtra,India,2022-11-14,Silver,No
+C000799,Piya,Verma,Female,vihaanbatta@example.com,9356590880,Medininagar,Bihar,India,2025-02-19,Platinum,Yes
+C000800,Advika,Johal,Male,csridhar@example.net,6106258723,Navi Mumbai,Uttarakhand,India,2024-06-14,Platinum,No
+C000801,Miraan,Basak,Female,bhandaripihu@example.org,7177126541,Panihati,Uttar Pradesh,India,2021-08-01,Platinum,Yes
+C000802,Ranbir,Malhotra,Female,edeol@example.org,9585337768,Guna,Himachal Pradesh,India,2023-02-12,Gold,Yes
+C000803,Badal,Saraf,Male,divittandon@example.org,9307741536,Saharanpur,Meghalaya,India,2024-07-21,Platinum,Yes
+C000804,Emir,Anand,Male,jsom@example.net,3150555932,Erode,Andhra Pradesh,India,2022-02-15,Gold,No
+C000805,Parinaaz,Lanka,Male,elachatterjee@example.net,7254906637,Shahjahanpur,Goa,India,2025-09-27,Gold,No
+C000806,Dharmajan,Jhaveri,Female,gthakur@example.net,9069138382,Nangloi Jat,Punjab,India,2022-03-18,Gold,No
+C000807,Myra,Kamdar,Female,kavyabhandari@example.com,7581435107,Chittoor,Himachal Pradesh,India,2026-02-01,Gold,Yes
+C000808,Khushi,Brar,Male,mahikawable@example.org,2884549553,Bhusawal,Madhya Pradesh,India,2023-08-06,Platinum,Yes
+C000809,Keya,Choudhary,Female,ldube@example.com,0040665091,Farrukhabad,Karnataka,India,2024-03-10,Silver,Yes
+C000810,Hansh,Deo,Male,parimalhotra@example.com,3576637601,Serampore,Tripura,India,2022-07-04,Platinum,No
+C000811,Nitara,Ramakrishnan,Female,ytank@example.net,9205623156,Berhampur,Rajasthan,India,2021-08-23,Platinum,Yes
+C000812,Umang,Chauhan,Female,veer05@example.net,3954306724,Avadi,Assam,India,2023-12-04,Silver,Yes
+C000813,Raghav,Shenoy,Female,tagarwal@example.com,9334830444,Kishanganj,Manipur,India,2024-04-19,Gold,No
+C000814,Sahil,Anand,Male,emirmani@example.com,8974982705,Saharanpur,Goa,India,2026-06-29,Gold,Yes
+C000815,Rania,Shah,Female,jayantchoudhry@example.net,0878019393,Jalna,Kerala,India,2021-07-31,Silver,No
+C000816,Nehmat,Jani,Female,nchana@example.net,8138771842,Srikakulam,Rajasthan,India,2025-10-12,Gold,Yes
+C000817,Heer,Devi,Female,oreddy@example.org,7638106079,Firozabad,Jharkhand,India,2021-09-07,Platinum,Yes
+C000818,Lakshit,Mane,Male,vanyachoudhry@example.com,9519865392,Ambattur,Madhya Pradesh,India,2023-03-08,Platinum,No
+C000819,Diya,Lalla,Female,samiha43@example.com,3666153610,Kurnool,Odisha,India,2026-01-02,Platinum,Yes
+C000820,Drishya,Seshadri,Male,madhuptara@example.com,4971985522,Bathinda,Uttarakhand,India,2025-03-27,Silver,Yes
+C000821,Saksham,Sanghvi,Female,indransrattan@example.com,8689277877,Delhi,Meghalaya,India,2025-07-19,Gold,Yes
+C000822,Bhamini,Tank,Female,manjari79@example.org,5828505434,Rajkot,Bihar,India,2021-10-13,Silver,No
+C000823,Mehul,Khanna,Male,anvi57@example.net,3748906736,Etawah,West Bengal,India,2023-11-15,Silver,Yes
+C000824,Rania,Kanda,Female,dashanaya@example.com,3997470240,Jhansi,Bihar,India,2024-10-27,Silver,Yes
+C000825,Fateh,Malhotra,Male,gadeyasmin@example.org,4927328332,Aizawl,Haryana,India,2021-09-27,Platinum,No
+C000826,Vanya,Rajagopalan,Male,riaanswamy@example.org,4809511332,Rohtak,Odisha,India,2024-12-02,Gold,No
+C000827,Samaira,Choudhury,Female,nitya90@example.org,5473552412,Rajpur Sonarpur,Maharashtra,India,2026-04-28,Platinum,No
+C000828,Hunar,Malhotra,Male,zainadara@example.net,8046415293,Adoni,Goa,India,2024-09-14,Platinum,Yes
+C000829,Vritika,Wable,Female,yuvaan82@example.org,9160720124,Ballia,Tripura,India,2023-12-01,Platinum,Yes
+C000830,Purab,Gala,Male,qchacko@example.com,9421739412,Bhiwandi,Goa,India,2024-03-17,Platinum,Yes
+C000831,Kaira,Chacko,Male,mehul25@example.com,1906213235,Bhind,Karnataka,India,2023-12-05,Gold,Yes
+C000832,Abram,Bajaj,Male,kabiragate@example.com,6275570380,Ambala,Jharkhand,India,2025-01-30,Platinum,Yes
+C000833,Alia,Korpal,Male,drishyaramakrishnan@example.com,3189282240,Berhampore,Andhra Pradesh,India,2026-05-03,Silver,Yes
+C000834,Vivaan,Magar,Female,raunak40@example.com,9776835934,Avadi,Odisha,India,2024-07-25,Platinum,No
+C000835,Mamooty,Soni,Male,trishadutt@example.com,3735544004,Bahraich,Sikkim,India,2024-06-02,Silver,Yes
+C000836,Kismat,Zacharia,Female,himmatbhatti@example.com,2259576409,Nagaon,Maharashtra,India,2025-12-02,Platinum,Yes
+C000837,Kabir,Gola,Female,zain04@example.net,6682857268,Imphal,Rajasthan,India,2021-11-05,Gold,Yes
+C000838,Fateh,Grewal,Female,hansh75@example.net,3950745977,Tiruppur,Himachal Pradesh,India,2021-07-28,Platinum,Yes
+C000839,Kimaya,Sabharwal,Female,kaira66@example.com,6904274696,Patiala,Goa,India,2025-10-15,Gold,Yes
+C000840,Darshit,Karan,Male,aayushbala@example.org,8481739700,Hazaribagh,Tripura,India,2022-12-24,Platinum,No
+C000841,Kismat,Sha,Male,kalahansh@example.net,5067301971,Loni,Himachal Pradesh,India,2025-07-04,Platinum,Yes
+C000842,Keya,Dubey,Male,aniruddhbalakrishnan@example.com,7628049610,Karimnagar,Bihar,India,2026-06-11,Platinum,Yes
+C000843,Shray,Kanda,Male,kashvi34@example.org,6724584621,Ghaziabad,Manipur,India,2025-11-03,Gold,Yes
+C000844,Anahita,Soni,Male,cherianmamooty@example.net,1017730459,Malegaon,Tamil Nadu,India,2023-02-02,Platinum,No
+C000845,Madhup,Halder,Female,chirag22@example.org,8346417132,Dehri,West Bengal,India,2021-11-30,Gold,No
+C000846,Saanvi,Toor,Male,ghosehrishita@example.com,7983733850,Berhampur,Meghalaya,India,2024-12-20,Silver,No
+C000847,Zoya,Chander,Male,hiransanghvi@example.net,2626747391,Anantapuram,Assam,India,2024-09-04,Platinum,No
+C000848,Aaina,Sabharwal,Female,prout@example.org,1537812147,Jamalpur,Tripura,India,2024-12-11,Platinum,No
+C000849,Nirvaan,Keer,Male,aaina01@example.com,1603016437,Korba,Uttar Pradesh,India,2024-05-07,Silver,No
+C000850,Shaan,Hegde,Female,ivan81@example.com,5105093398,Mehsana,Telangana,India,2024-04-11,Gold,Yes
+C000851,Anvi,Chawla,Female,kabir63@example.com,5297735936,Indore,Karnataka,India,2024-04-10,Gold,No
+C000852,Nehmat,Bakshi,Male,csunder@example.net,5434346473,Phagwara,Arunachal Pradesh,India,2022-12-01,Platinum,Yes
+C000853,Oorja,Keer,Male,keertarini@example.org,8196619605,Kirari Suleman Nagar,Mizoram,India,2025-02-08,Platinum,No
+C000854,Vanya,Subramaniam,Male,kbera@example.net,4287454872,Kalyan-Dombivli,Arunachal Pradesh,India,2025-01-10,Silver,No
+C000855,Kimaya,Ghose,Male,jivinrout@example.org,6789656762,Ranchi,Kerala,India,2023-08-10,Platinum,No
+C000856,Ela,Krishnamurthy,Female,anya31@example.net,0454863031,Serampore,Meghalaya,India,2026-06-18,Gold,No
+C000857,Mishti,Sangha,Male,guhapiya@example.org,3105133163,Loni,Punjab,India,2023-12-06,Silver,No
+C000858,Inaaya ,Saraf,Female,ratidasgupta@example.org,3126856132,Mira-Bhayandar,Madhya Pradesh,India,2023-11-07,Gold,No
+C000859,Jayant,Date,Male,sara90@example.org,0385174437,Akola,Tripura,India,2021-08-25,Silver,No
+C000860,Shaan,Sundaram,Female,bansalvanya@example.org,6412869017,Barasat,Tripura,India,2025-02-01,Platinum,No
+C000861,Pihu,Borra,Female,bhagatmisha@example.com,3427423282,Eluru,Arunachal Pradesh,India,2022-11-03,Platinum,Yes
+C000862,Anay,Sule,Male,edoctor@example.net,3519404785,Tirunelveli,Uttar Pradesh,India,2024-02-02,Platinum,No
+C000863,Saira,Behl,Male,gulativivaan@example.org,3321151918,Akola,Rajasthan,India,2024-01-25,Silver,No
+C000864,Ivana,Hans,Female,bghose@example.net,6603764978,Bongaigaon,Meghalaya,India,2021-09-19,Silver,No
+C000865,Yashvi,Mangal,Female,arnavbaral@example.com,0958939718,Panchkula,Telangana,India,2022-08-26,Silver,Yes
+C000866,Armaan,Bobal,Male,swamykavya@example.net,2961831535,Tadepalligudem,Uttarakhand,India,2024-01-19,Platinum,Yes
+C000867,Sara,Thaker,Female,usaran@example.com,2939471441,Proddatur,Tamil Nadu,India,2025-01-01,Silver,Yes
+C000868,Kiaan,Sahota,Female,darshit24@example.net,2709802641,Mathura,Odisha,India,2025-06-24,Silver,No
+C000869,Saksham,Brahmbhatt,Male,ideo@example.com,0309799494,Dehradun,Arunachal Pradesh,India,2024-11-04,Platinum,Yes
+C000870,Hunar,Bera,Female,yasminiyengar@example.com,8837355960,Rajahmundry,Gujarat,India,2025-07-11,Silver,Yes
+C000871,Rohan,Hora,Male,sunderinaaya@example.net,4103738296,Haridwar,West Bengal,India,2025-03-20,Platinum,No
+C000872,Prisha,Bhatt,Male,xdoshi@example.net,5554597110,Bongaigaon,Kerala,India,2024-01-07,Platinum,Yes
+C000873,Nehmat,Choudhury,Male,tiya32@example.com,5197027471,Darbhanga,Himachal Pradesh,India,2022-02-18,Gold,Yes
+C000874,Priyansh,Varma,Male,kbora@example.org,9978798227,Karnal,Uttar Pradesh,India,2024-12-07,Gold,No
+C000875,Pari,Varughese,Female,gatikdhingra@example.net,5752743689,Thrissur,Madhya Pradesh,India,2025-02-02,Platinum,Yes
+C000876,Neelofar,Batra,Female,sainivedika@example.org,1139741892,Bettiah,Rajasthan,India,2021-09-24,Gold,No
+C000877,Arnav,Halder,Male,vgara@example.com,2000820585,Jalandhar,Jharkhand,India,2023-08-18,Gold,Yes
+C000878,Diya,Thakur,Male,dassehsaan@example.net,8499192695,Jhansi,Arunachal Pradesh,India,2024-03-03,Platinum,No
+C000879,Mannat,Viswanathan,Male,tandonmyra@example.org,7454608576,Thanjavur,Tripura,India,2025-02-21,Gold,No
+C000880,Amira,Kaur,Female,bhatnagarshayak@example.org,8207171920,Srinagar,Kerala,India,2024-06-12,Platinum,Yes
+C000881,Adira,Mannan,Female,ayesha58@example.net,1657130707,Noida,Kerala,India,2025-09-19,Platinum,Yes
+C000882,Tushar,Jha,Female,iyerhunar@example.com,3230613189,Miryalaguda,Rajasthan,India,2024-07-23,Gold,Yes
+C000883,Shayak,Vaidya,Female,sankarantanya@example.org,1241806242,Agra,Manipur,India,2025-03-09,Platinum,Yes
+C000884,Veer,Khalsa,Male,nsolanki@example.org,6079614300,Madhyamgram,Maharashtra,India,2025-07-19,Platinum,No
+C000885,Tarini,Sem,Male,raniasarna@example.org,9888205815,Mango,Maharashtra,India,2023-01-08,Gold,Yes
+C000886,Samar,Bumb,Male,jayesh94@example.org,1501124633,Haldia,Uttar Pradesh,India,2023-10-27,Gold,Yes
+C000887,Samiha,Kannan,Female,zainachaudhary@example.com,2851790722,Ranchi,Uttarakhand,India,2025-09-04,Silver,Yes
+C000888,Aayush,Mammen,Female,odatta@example.net,3079091423,Berhampur,Tamil Nadu,India,2022-11-23,Silver,Yes
+C000889,Veer,Rajagopal,Male,hridaanbutala@example.com,4309423987,Baranagar,Tripura,India,2024-01-03,Silver,No
+C000890,Kavya,Krish,Female,mangalsuhana@example.net,2944303079,Jaunpur,Madhya Pradesh,India,2025-01-31,Platinum,Yes
+C000891,Kavya,Ranganathan,Female,gadenirvaan@example.net,8512942442,Patna,Manipur,India,2025-01-20,Silver,Yes
+C000892,Manjari,Kanda,Male,atwalkiara@example.net,5676643706,Mehsana,West Bengal,India,2025-11-18,Silver,Yes
+C000893,Jivin,Hegde,Female,kalitaazad@example.com,6486480713,Silchar,Jharkhand,India,2025-08-24,Platinum,No
+C000894,Seher,Varkey,Female,lagan17@example.org,4285514471,Chandigarh,Kerala,India,2025-07-01,Gold,Yes
+C000895,Aniruddh,Apte,Female,dasbadal@example.com,7001241474,Mysore,Manipur,India,2021-08-06,Silver,Yes
+C000896,Ayesha,Sule,Male,seheraggarwal@example.net,0958259569,Giridih,West Bengal,India,2025-02-03,Platinum,Yes
+C000897,Baiju,Batta,Female,nitarayohannan@example.com,6333395322,Yamunanagar,Karnataka,India,2026-06-09,Platinum,Yes
+C000898,Sara,Handa,Female,mehulsinha@example.org,9706985592,Kurnool,Assam,India,2026-06-24,Gold,Yes
+C000899,Dishani,Kapur,Female,jivinanne@example.com,4075850325,Kanpur,Manipur,India,2023-06-04,Gold,No
+C000900,Nirvi,Mangat,Male,khannasuhana@example.com,2011840803,Shivpuri,Manipur,India,2025-08-20,Silver,No
+C000901,Aaina,Anand,Male,riya43@example.com,4372220995,Ulhasnagar,Kerala,India,2021-09-08,Platinum,Yes
+C000902,Parinaaz,Bawa,Female,ganeshnakul@example.net,8340797825,Fatehpur,Meghalaya,India,2026-04-26,Gold,Yes
+C000903,Madhup,Saha,Male,pbath@example.com,0711671623,Shahjahanpur,Rajasthan,India,2021-08-29,Platinum,Yes
+C000904,Adah,Biswas,Female,borakismat@example.com,4969038072,Varanasi,Chhattisgarh,India,2023-07-22,Gold,No
+C000905,Sumer,Kala,Male,bakshivaibhav@example.com,6591144788,Imphal,Nagaland,India,2026-01-09,Gold,Yes
+C000906,Inaaya ,Mallick,Female,ethakkar@example.org,7835891851,Gandhinagar,Karnataka,India,2025-09-07,Silver,Yes
+C000907,Indranil,Uppal,Male,divyansh60@example.org,2589532058,Aizawl,Sikkim,India,2025-12-25,Gold,Yes
+C000908,Manjari,Boase,Female,dasguptamadhup@example.org,1856023079,Rajahmundry,Himachal Pradesh,India,2024-08-03,Gold,Yes
+C000909,Krish,Arya,Female,dassamani@example.com,8670282421,Vellore,Telangana,India,2023-03-26,Gold,Yes
+C000910,Vritika,Lall,Male,aaryahichahal@example.org,5758987813,Moradabad,Rajasthan,India,2023-10-20,Platinum,Yes
+C000911,Vedika,Kala,Female,walianvi@example.com,3779454705,Unnao,Uttarakhand,India,2023-08-24,Platinum,No
+C000912,Renee,Thakur,Male,pshankar@example.com,0330374273,Farrukhabad,Kerala,India,2024-03-06,Silver,Yes
+C000913,Nishith,Grewal,Female,aarnakeer@example.net,9586275692,Hyderabad,Himachal Pradesh,India,2023-07-13,Silver,No
+C000914,Nishith,Sarma,Male,madhavhayre@example.net,6031420553,Rourkela,Nagaland,India,2025-04-28,Platinum,No
+C000915,Mehul,Sridhar,Male,ritviksandhu@example.com,3906199242,Dehri,Andhra Pradesh,India,2022-04-14,Platinum,Yes
+C000916,Seher,Basak,Female,sharmahunar@example.net,9151322645,Mumbai,Uttarakhand,India,2025-03-20,Platinum,No
+C000917,Renee,Master,Male,sakshamviswanathan@example.net,9228255936,Gwalior,Andhra Pradesh,India,2023-08-04,Gold,No
+C000918,Vardaniya,Kapadia,Female,jivikamann@example.com,9720018321,Raiganj,Manipur,India,2021-11-04,Silver,No
+C000919,Amira,Deep,Male,imaster@example.org,6361855164,Patiala,Bihar,India,2024-05-10,Platinum,Yes
+C000920,Jivin,Chaudhuri,Female,nlal@example.org,9199826134,Bathinda,Rajasthan,India,2023-08-15,Silver,No
+C000921,Vardaniya,Ganguly,Female,ahana-kade@example.com,9225528336,Rajkot,Madhya Pradesh,India,2023-04-06,Gold,Yes
+C000922,Inaaya ,Banik,Male,ekaur@example.org,0085955599,Morbi,Arunachal Pradesh,India,2023-01-06,Gold,No
+C000923,Mannat,Kakar,Female,myravarughese@example.net,4028045814,Ajmer,Goa,India,2025-11-25,Gold,No
+C000924,Jhanvi,Kapur,Female,aggarwalshray@example.net,4483715051,Vijayawada,Maharashtra,India,2026-04-05,Gold,Yes
+C000925,Hazel,Swamy,Male,xmanda@example.net,5793245358,Karnal,Karnataka,India,2024-10-30,Platinum,No
+C000926,Madhav,Yadav,Male,kartik40@example.net,6339157823,Nagpur,Assam,India,2023-07-16,Platinum,No
+C000927,Vritika,Dugar,Male,ramaswamyromil@example.com,2406758264,Thanjavur,Sikkim,India,2023-01-10,Platinum,No
+C000928,Ira,Suresh,Male,zoyamahajan@example.net,2059896646,Junagadh,Rajasthan,India,2023-10-28,Gold,No
+C000929,Lavanya,Banerjee,Male,kavya29@example.com,1611596131,Hubli–Dharwad,Rajasthan,India,2024-03-20,Platinum,No
+C000930,Anahita,Saha,Female,kismatraman@example.net,3627926427,Ahmednagar,Uttarakhand,India,2023-09-21,Gold,No
+C000931,Reyansh,Bhattacharyya,Male,dishanisubramaniam@example.com,3684604376,Chandrapur,Uttarakhand,India,2025-09-17,Platinum,No
+C000932,Vanya,Krishnan,Female,hazel19@example.net,8864721520,Sikar,Sikkim,India,2024-10-15,Silver,Yes
+C000933,Hansh,Dubey,Female,bhargavaseher@example.net,7611156275,Jodhpur,Rajasthan,India,2026-04-18,Gold,Yes
+C000934,Anaya,Behl,Female,advika59@example.net,4198446381,Tadipatri,Bihar,India,2024-05-31,Silver,No
+C000935,Elakshi,Gulati,Female,riya82@example.com,4189044720,Chandrapur,Andhra Pradesh,India,2024-09-29,Platinum,No
+C000936,Mamooty,Sandal,Male,garapari@example.org,3414690033,Singrauli,Sikkim,India,2023-11-30,Gold,No
+C000937,Tejas,Rajagopal,Male,flala@example.org,0040905987,Ulhasnagar,Andhra Pradesh,India,2023-05-15,Platinum,Yes
+C000938,Ayesha,Iyer,Female,niyengar@example.org,2948561323,Hubli–Dharwad,Assam,India,2022-09-09,Gold,Yes
+C000939,Rhea,Chanda,Female,korpalsiya@example.net,9054546716,Kalyan-Dombivli,Sikkim,India,2022-11-22,Gold,No
+C000940,Manjari,Bawa,Female,vritikatella@example.org,9569746450,Thrissur,Odisha,India,2025-07-21,Gold,Yes
+C000941,Madhup,Agate,Female,tgoswami@example.net,0258071099,Khora ,Sikkim,India,2021-12-24,Gold,Yes
+C000942,Kimaya,Datta,Female,scheema@example.com,4878264244,Pondicherry,Uttar Pradesh,India,2024-09-29,Gold,No
+C000943,Ira,Kurian,Male,baradlavanya@example.com,5192945645,Bettiah,Gujarat,India,2022-01-29,Gold,Yes
+C000944,Miraan,Koshy,Female,hiran77@example.org,7439911911,Guntur,Himachal Pradesh,India,2023-08-30,Silver,Yes
+C000945,Anika,Chaudhuri,Female,advikgole@example.org,1107639121,Vijayawada,Arunachal Pradesh,India,2025-03-11,Silver,No
+C000946,Himmat,Arora,Male,jgulati@example.org,2218221739,Mira-Bhayandar,Haryana,India,2023-03-19,Silver,No
+C000947,Amira,Ganesan,Female,zainabaria@example.org,4632459897,Indore,Madhya Pradesh,India,2024-08-29,Silver,No
+C000948,Tarini,Bhargava,Female,wmandal@example.com,6238848306,Amritsar,Bihar,India,2022-11-02,Silver,No
+C000949,Anvi,Luthra,Male,ivanchakrabarti@example.com,1958575546,Akola,Assam,India,2023-07-13,Gold,Yes
+C000950,Manjari,Lalla,Female,veervirk@example.net,9188063268,Bally,Goa,India,2021-09-10,Gold,No
+C000951,Khushi,Sem,Female,ythaman@example.com,2941753725,Srikakulam,Madhya Pradesh,India,2022-05-04,Silver,Yes
+C000952,Eshani,Talwar,Female,anviramanathan@example.com,9734180521,Bhind,West Bengal,India,2025-11-12,Silver,No
+C000953,Riaan,Biswas,Female,yuvaanboase@example.net,4835947315,Nangloi Jat,Bihar,India,2023-04-29,Platinum,No
+C000954,Tara,Buch,Male,badalshlok@example.com,9278428099,Sagar,Karnataka,India,2025-08-30,Platinum,Yes
+C000955,Navya,Ramesh,Female,fatehjohal@example.org,1596874706,Panihati,Andhra Pradesh,India,2025-07-14,Silver,Yes
+C000956,Priyansh,Lala,Male,ddeshpande@example.org,5163762634,Meerut,Uttarakhand,India,2025-03-08,Gold,No
+C000957,Mamooty,Chakrabarti,Female,pihugarg@example.org,4245558140,Burhanpur,Assam,India,2022-02-16,Gold,No
+C000958,Devansh,Biswas,Male,banerjeeuthkarsh@example.net,1127287473,Thiruvananthapuram,Rajasthan,India,2026-01-14,Platinum,No
+C000959,Tejas,Uppal,Male,khuranasahil@example.com,9861835777,Tirupati,Andhra Pradesh,India,2026-07-17,Platinum,Yes
+C000960,Ojas,Karan,Female,anvigulati@example.com,9637832760,Vijayanagaram,Jharkhand,India,2022-01-27,Gold,No
+C000961,Ranbir,Atwal,Male,diyasem@example.org,9140382509,Jalgaon,Mizoram,India,2023-07-29,Silver,Yes
+C000962,Indranil,Tara,Female,ygulati@example.org,7230411436,Etawah,Jharkhand,India,2025-02-08,Gold,No
+C000963,Indrans,Anne,Female,kabirgopal@example.org,4499482643,Coimbatore,Uttarakhand,India,2025-08-08,Gold,No
+C000964,Shayak,Sahni,Male,hanstrisha@example.net,1484219779,Saharanpur,Madhya Pradesh,India,2024-07-03,Gold,Yes
+C000965,Arhaan,Iyer,Male,vritika01@example.com,0393276329,Bulandshahr,Chhattisgarh,India,2024-11-26,Silver,No
+C000966,Vidur,Lad,Female,esama@example.org,0793156820,Bhalswa Jahangir Pur,Karnataka,India,2025-04-11,Platinum,No
+C000967,Rohan,Walla,Male,yuvaan68@example.org,8432292937,Katni,Assam,India,2023-11-09,Platinum,No
+C000968,Vritika,Khurana,Female,dyalnitara@example.com,0986275949,Guwahati,Tamil Nadu,India,2024-04-20,Platinum,No
+C000969,Dhanush,Jani,Male,nityathakkar@example.net,6097510901,Ongole,Gujarat,India,2026-06-23,Gold,Yes
+C000970,Mannat,Bains,Female,bhavin19@example.org,0546725166,Phagwara,Tripura,India,2023-04-15,Gold,Yes
+C000971,Tiya,Chaudhary,Female,abram52@example.org,5693164924,Kakinada,Gujarat,India,2022-12-09,Silver,Yes
+C000972,Yuvraj ,Mahal,Female,emirbasak@example.org,4138783717,Bidar,Madhya Pradesh,India,2024-11-24,Silver,Yes
+C000973,Elakshi,Agarwal,Female,srinivasanparinaaz@example.com,0913345447,Nagpur,Nagaland,India,2023-01-29,Silver,Yes
+C000974,Trisha,Loke,Male,lagan97@example.net,2056804524,Shimla,Rajasthan,India,2024-03-27,Gold,Yes
+C000975,Fateh,Rana,Male,fkar@example.com,2031523802,Guna,Kerala,India,2024-09-30,Platinum,Yes
+C000976,Vanya,Chanda,Female,wablejiya@example.org,9789072672,Agartala,Gujarat,India,2025-06-18,Gold,Yes
+C000977,Riaan,Dara,Female,renee23@example.net,5136094650,Hyderabad,Telangana,India,2025-09-17,Gold,No
+C000978,Lakshit,Gole,Male,vanya61@example.org,0319876538,Bellary,Bihar,India,2026-04-01,Silver,Yes
+C000979,Emir,Balan,Male,tkhosla@example.net,0434827810,Aurangabad,Karnataka,India,2022-03-21,Gold,No
+C000980,Suhana,Bora,Male,yuvaan69@example.org,6513315348,Phagwara,Assam,India,2024-10-15,Platinum,Yes
+C000981,Diya,Bora,Male,shlok54@example.org,7839876586,Tadipatri,Kerala,India,2025-06-21,Platinum,Yes
+C000982,Tejas,Dhillon,Female,talwararmaan@example.net,3992936924,Mira-Bhayandar,Maharashtra,India,2021-09-14,Platinum,No
+C000983,Kabir,Deep,Female,irandhawa@example.com,2824588251,Saharsa,Bihar,India,2022-10-25,Platinum,No
+C000984,Ivan,Walia,Female,jainanahi@example.net,1916902697,Dhanbad,Nagaland,India,2026-03-31,Silver,Yes
+C000985,Bhavin,Seth,Female,advika65@example.org,3198311150,Ujjain,Bihar,India,2022-03-08,Gold,No
+C000986,Yakshit,Gokhale,Female,sumerthakur@example.org,4639780863,Amritsar,Telangana,India,2023-05-06,Platinum,No
+C000987,Vidur,Rajan,Male,kanttushar@example.com,2777490410,Morbi,Gujarat,India,2021-12-08,Platinum,Yes
+C000988,Ahana ,Kari,Male,biju76@example.org,8266160927,Orai,Karnataka,India,2023-11-10,Platinum,Yes
+C000989,Lagan,Bhattacharyya,Female,baiju69@example.net,4139612634,Narasaraopet,West Bengal,India,2024-03-12,Platinum,Yes
+C000990,Anaya,Majumdar,Female,kiara89@example.org,8239237790,Kanpur,Karnataka,India,2026-01-01,Silver,Yes
+C000991,Raunak,Kara,Female,inaaya-61@example.org,4491381495,Hyderabad,Kerala,India,2024-11-07,Gold,No
+C000992,Kiara,Tella,Male,agrawalshaan@example.com,0118133247,Katihar,Punjab,India,2025-02-25,Silver,Yes
+C000993,Taimur,Khanna,Female,gokhalearnav@example.org,5869489143,Berhampore,Sikkim,India,2024-08-27,Platinum,Yes
+C000994,Misha,Choudhury,Female,chakrabartizoya@example.com,1386925747,Raebareli,Tamil Nadu,India,2024-09-02,Silver,No
+C000995,Armaan,Sharaf,Male,ulanka@example.org,5952171686,Rampur,Andhra Pradesh,India,2025-02-07,Platinum,Yes
+C000996,Pranay,Dalal,Male,badal32@example.com,7736285982,Delhi,Madhya Pradesh,India,2024-09-07,Gold,Yes
+C000997,Shlok,Talwar,Male,abiswas@example.com,6043743620,Chinsurah,West Bengal,India,2025-01-14,Gold,No
+C000998,Umang,Taneja,Male,purab46@example.com,7425333047,Indore,Meghalaya,India,2024-04-25,Platinum,Yes
+C000999,Mishti,Rama,Male,renee34@example.net,6967509471,Davanagere,Meghalaya,India,2024-01-24,Silver,No
+C001000,Ojas,Vala,Female,piyer@example.org,0916227023,Machilipatnam,Goa,India,2022-06-22,Platinum,Yes
